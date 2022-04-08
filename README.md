@@ -58,6 +58,7 @@ Name | Level | Institution | Year |
 [Upper Intermediate English](https://github.com/gomezabajo/academy/blob/main/diplomas/2018_English_EAP_B2_UAM.pdf) | B2 | Universidad Autónoma de Madrid | 2018 |
 [Intermediate English](https://github.com/gomezabajo/academy/blob/main/diplomas/2000_Certificado_EOI_Ingles_B1_PUB.pdf) | B1 | E.O.I. Madrid | 2000 |
 [Advanced Portuguese](https://github.com/gomezabajo/academy/blob/main/diplomas/2021_Portugues_C1_Instituto_Camoes.pdf) | C1 | Instituto Camões | 2021 |
+[Advanced Portuguese](https://github.com/gomezabajo/academy/blob/main/diplomas/2022_Portugues_C1_CIAL.pdf) | C1 | CIAL Centro de Línguas | 2022 |
 [Upper Intermediate Portuguese](https://github.com/gomezabajo/academy/blob/main/diplomas/2021_Portugues_B2_Instituto_Camoes.pdf) | B2 | Instituto Camões | 2021 |
 [Intermediate Portuguese](https://github.com/gomezabajo/academy/blob/main/diplomas/2021_Portugues_B1_UAM_PUB.pdf) | B1 | Universidad Autónoma de Madrid | 2021 |
 [Intermediate Portuguese](https://github.com/gomezabajo/academy/blob/main/diplomas/2021_Certificado_UNED_Portugues_B1_PUB.pdf) | B1 |UNED | 2021 |
