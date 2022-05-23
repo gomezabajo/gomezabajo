@@ -12,7 +12,7 @@ Since 2019 he holds a position as an assistant professor in the Computer Science
 
 <img src="https://komarev.com/ghpvc/?username=gomezabajo"/>
 
-# Publications
+## Publications
 
 This page contains links to files in Postscript (ps) or Portable Document Format (pdf) of articles which may be covered by copyright. Copying or distributing these files may violate copyright law. In any case, don't hesitate to contact me if you need an electronic copy of some of the papers or presentations. You can also have a look at my publications from the <a href="http://dblp.uni-trier.de/pers/hc/g/G=oacute=mez=Abajo:Pablo" target="_blank">DBLP</a> server and <a href="https://scholar.google.com/citations?user=h7VMrcIAAAAJ&hl=en" target="_blank">Google Scholar</a>.
 
@@ -42,7 +42,7 @@ Name | Authors | Conference/Journal/Event | Location | Award | Year |
 [A framework for the automated generation of exercises via model mutation](https://repositorio.uam.es/handle/10486/676054) | Pablo Gómez-Abajo | Final master's thesis. Master’s Program (MSc) in ICT Research and Innovation | Universidad Autónoma de Madrid |  Special mention | 2016 
 [Wodel: A domain-specific language for model mutation](https://dl.acm.org/doi/10.1145/2851613.2851751) | Pablo Gómez-Abajo, Esther Guerra, Juan de Lara | Symposium on Applied Computing 2016 (SAC). pp.:1968-1973 | Pisa |  -- | 2016 
 
-# University Education
+## University Education
 
 Name | Year |
 --- | --- |
@@ -63,7 +63,7 @@ Name | Year |
 [Road to Santiago](https://github.com/gomezabajo/academy/blob/main/diplomas/2003_Camino_de_Santiago.pdf) | 2003 |
 [University access certification](https://github.com/gomezabajo/academy/blob/main/diplomas/2000_Certificado_PAU_PUB.pdf) | 2000 |
 
-# Secondary Education
+## Secondary Education
 
 Name | Year |
 --- | --- |
@@ -71,7 +71,7 @@ Name | Year |
 [Natural & Health Sciences](https://github.com/gomezabajo/academy/blob/main/diplomas/2000_Titulo_Bachiller_PUB.pdf) | 2000 |
 [Secondary education](https://github.com/gomezabajo/academy/blob/main/diplomas/1998_Titulo_Secundaria_PUB.pdf) | 1998 |
 
-# Languages
+## Languages
 
 Name | Level | Institution | Year |
 --- | --- | --- | --- |
@@ -97,7 +97,7 @@ Name | Level | Institution | Year |
 [Elementary Portuguese](https://github.com/gomezabajo/academy/blob/main/diplomas/2004_Curso_Inicial_de_Lingua_Portuguesa.pdf) | A2 | Universidade de Lisboa | 2004 |
 [Beginner Arabic](https://github.com/gomezabajo/academy/blob/main/diplomas/2008_Certificado_EOI_Arabe_A1_PUB.pdf) | A1 | E.O.I. Madrid | 2008 |
 
-# Attended Courses &amp; Seminars
+## Attended Courses &amp; Seminars
 
 ### Universidad Autónoma de Madrid
 
