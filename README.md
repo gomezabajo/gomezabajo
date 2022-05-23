@@ -99,7 +99,7 @@ Name | Level | Institution | Year |
 
 # Attended Courses &amp; Seminars
 
-# Universidad Autónoma de Madrid
+### Universidad Autónoma de Madrid
 
 Title | Duration | Date | Location |
 --- | --- | --- | --- |
@@ -162,7 +162,7 @@ Title | Duration | Date | Location |
 [La percepción del paisaje](https://github.com/gomezabajo/courses/blob/main/pdf/2021_La_percepcion_del_paisaje.pdf) | (25h.) | December 2021 | edX |
 Total | (1271h.) | | |
 
-# Instituto de Empleo, Servicio Público de Empleo Estatal
+### Instituto de Empleo, Servicio Público de Empleo Estatal
 
 Title | Duration | Date | Location |
 --- | --- | --- | --- |
@@ -171,13 +171,13 @@ Title | Duration | Date | Location |
 [Diseño y modificación de planos en 2D y 3D](https://github.com/gomezabajo/courses/blob/main/pdf/2007_Disenno_y_modificacion_de_planos_en_2D_y_3D_PUB.pdf) | (180h.) | September - October 2007 | |
 Total | (739h.) | | |
 
-# Universidad Camilo José Cela
+### Universidad Camilo José Cela
 
 Title | Duration | Date | Location |
 --- | --- | --- | --- |
 [Programación para Android](https://github.com/gomezabajo/courses/blob/main/pdf/2013_Programacion_para_Android_PUB.pdf) | (250h.) | May - December 2013
 
-# Fundación Cultural Ángel Herrera Oria
+### Fundación Cultural Ángel Herrera Oria
 
 Title | Duration | Date | Location |
 --- | --- | --- | --- |
@@ -188,7 +188,7 @@ Title | Duration | Date | Location |
 [VI Jornadas 'Ciencia y Fe': 'Dignidad humana y ciencia'](https://github.com/gomezabajo/courses/blob/main/pdf/2018_VI_Jornadas_ciencia_y_fe.pdf) | | June 2018 | |
 [VII Jornadas 'Ciencia y Fe': 'Ideología, mentiras camufladas'](https://github.com/gomezabajo/courses/blob/main/pdf/2019_VII_Jornadas_ciencia_y_fe.pdf) | | June 2019 | |
 
-# Universidad Rey Juan Carlos
+### Universidad Rey Juan Carlos
 
 Title | Duration | Date | Location |
 --- | --- | --- | --- |
@@ -201,13 +201,13 @@ Title | Duration | Date | Location |
 [Poténciate con redes sociales](https://github.com/gomezabajo/courses/blob/main/pdf/2019_Potenciate_con_redes_sociales.pdf) | (20h.) | April 2019 | Miríada X |
 Total | (405h.) | | |
 
-# Universidad Católica de Murcia
+### Universidad Católica de Murcia
 
 Title | Duration | Date | Location |
 --- | --- | --- | --- |
 [MatLab para principiantes](https://github.com/gomezabajo/courses/blob/main/pdf/2015_Matlab_para_principiantes.pdf) | (16h.) | March 2015 | Miríada X |
 
-# Universidad Nacional de Educación a Distancia
+### Universidad Nacional de Educación a Distancia
 
 Title | Duration | Date | Location |
 --- | --- | --- | --- |
@@ -250,19 +250,19 @@ Title | Duration | Date | Location |
 [Sistemas Inteligentes de Transporte y Vehículos Autónomos: estado actual de la tecnología en 2021](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Vehiculos_autonomos_UNED_PUB.pdf) | (20h.) | January 2022 | |
 Total | (867,5h.) | | |
 
-# Universidad de la Laguna
+### Universidad de la Laguna
 
 Title | Duration | Date | Location |
 --- | --- | --- | --- |
 [E-Learning: Aulas virtuales en Moodle para uso docente](https://github.com/gomezabajo/courses/blob/main/pdf/2015_E-Learning_Aulas_virtuales_en_Moodle_para_uso_docente.pdf) | (24h.) | June 2015 | Miríada X |
 
-# Université de Genève
+### Université de Genève
 
 Title | Duration | Date | Location |
 --- | --- | --- | --- |
 [DSM-TP International Summer School 2016 on Domain-Specific Modeling](https://github.com/gomezabajo/courses/blob/main/pdf/2016_DSM-TP_Universite_de_Geneve.pdf) | (50h.) | August 2016 | |
 
-# The University of Edinburgh
+### The University of Edinburgh
 
 Title | Duration | Date | Location |
 --- | --- | --- | --- |
@@ -279,7 +279,7 @@ Title | Duration | Date | Location |
 [Know Thyself - The Value and Limits of Self-Knowledge: The Unconscious](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Know_Thyself_The_Unconscious.pdf) | (30h.) | July 2020 | Coursera |
 Total | (176h.) | | |
 
-# Universitat Oberta de Catalunya
+### Universitat Oberta de Catalunya
 
 Title | Duration | Date | Location |
 --- | --- | --- | --- |
@@ -287,7 +287,7 @@ Title | Duration | Date | Location |
 [La computación autónoma desde la perspectiva de los Modelos en tiempo de Ejecución](https://github.com/gomezabajo/courses/blob/main/pdf/2018_Modelos_en_tiempo_de_ejecucion_PUB.pdf) | (4h.) | February 2018 | |
 Total | (12h.) | | |
 
-# Universidad Carlos III de Madrid
+### Universidad Carlos III de Madrid
 
 Title | Duration | Date | Location |
 --- | --- | --- | --- |
@@ -295,7 +295,7 @@ Title | Duration | Date | Location |
 [Historia de la ética](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Historia_de_la_etica.pdf) | (18h.) | May 2020 | edX |
 Total | (34h.) | | |
 
-# Universidad Pontificia Comillas
+### Universidad Pontificia Comillas
 
 Title | Duration | Date | Location |
 --- | --- | --- | --- |
@@ -305,19 +305,19 @@ Title | Duration | Date | Location |
 [Elaboración de programaciones didácticas](https://github.com/gomezabajo/courses/blob/main/pdf/2019_Elaboracion_programaciones_didacticas_PUB.pdf) | (110h.) | March 2019 | Instituto de Ciencias de la Educación (ICE) |
 Total | (263h.) | | |
 
-# Corporación Universitaria Minuto de Dios
+### Corporación Universitaria Minuto de Dios
 
 Title | Duration | Date | Location |
 --- | --- | --- | --- |
 [Resistencias Ciudadanas como acto creativo](https://github.com/gomezabajo/courses/blob/main/pdf/2018_Resistencias_ciudadanas.pdf) | (60h.) | October 2018 | Miríada X |
 
-# Telefónica Universitas
+### Telefónica Universitas
 
 Title | Duration | Date | Location |
 --- | --- | --- | --- |
 [Introducción al Machine-Learning](https://github.com/gomezabajo/courses/blob/main/pdf/2018_Machine_Learning.pdf) | (20h.) | October 2018 | Miríada X |
 
-# Wesleyan University
+### Wesleyan University
 
 Title | Duration | Date | Location |
 --- | --- | --- | --- |
@@ -331,13 +331,13 @@ Title | Duration | Date | Location |
 [The Ancient Greeks](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Ancient_Greeks.pdf) | (20h.) | January 2022 | Coursera |
 Total | (111h.) | | |
 
-# Universidad del País Vasco
+### Universidad del País Vasco
 
 Title | Duration | Date | Location |
 --- | --- | --- | --- |
 [Ética en la investigación universitaria](https://github.com/gomezabajo/courses/blob/main/pdf/2019_Etica_en_investigacion.pdf) | (36h.) | February 2019 | Miríada X |
 
-# Consejo General de Colegios Profesionales de Ingeniería Informática
+### Consejo General de Colegios Profesionales de Ingeniería Informática
 
 Title | Duration | Date | Location |
 --- | --- | --- | --- |
@@ -346,7 +346,7 @@ Title | Duration | Date | Location |
 [Automatización de pruebas con Selenium y Cucumber](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Testing_Selenium_Cucumber_PUB.pdf) | (10h.) | April 2020 | CITIPA y COIIPA |
 Total | (60h.) | | |
 
-# Eindhoven University of Technology
+### Eindhoven University of Technology
 
 Title | Duration | Date | Location |
 --- | --- | --- | --- |
@@ -354,7 +354,7 @@ Title | Duration | Date | Location |
 [Ethics, Technology and Engineering](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Ethics_Technology_Engineering.pdf) | (40h.) | February 2020 | Coursera |
 Total | (64h.) | | |
 
-# Plataforma de Formación - Fundación AFIM
+### Plataforma de Formación - Fundación AFIM
 
 Title | Duration | Date | Location |
 --- | --- | --- | --- |
@@ -363,19 +363,19 @@ Title | Duration | Date | Location |
 [Word 2016](https://github.com/gomezabajo/courses/blob/main/pdf/2019_Word_2016_PUB.pdf) | (60h.) | December 2019 | |
 Total | (180h.) | | |
 
-# Saint Petersburg State University
+### Saint Petersburg State University
 
 Title | Duration | Date | Location |
 --- | --- | --- | --- |
 [The Introduction to Quantum Computing](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Quantum_Computing.pdf) | (20h.) | April 2020 | Coursera |
 
-# National Research University Higher School of Economics
+### National Research University Higher School of Economics
 
 Title | Duration | Date | Location |
 --- | --- | --- | --- |
 [Introduction to Deep Learning](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Deep_Learning.pdf) | (60h.) | May 2020 | Coursera |
 
-# Yale University
+### Yale University
 
 Title | Duration | Date | Location |
 --- | --- | --- | --- |
@@ -383,25 +383,25 @@ Title | Duration | Date | Location |
 [A Journey through Western Christianity: from Persecuted Faith to Global Religion (200 - 1650)](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Christianity.pdf) | (46h.) | October 2020 | Coursera |
 Total | (71h.) | | |
 
-# The Johns Hopkins University
+### The Johns Hopkins University
 
 Title | Duration | Date | Location |
 --- | --- | --- | --- |
 [Major Depression in the Population: A Public Health Approach](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Depression.pdf) | (12h.) | September 2020 | Coursera |
 
-# The University of Sydney
+### The University of Sydney
 
 Title | Duration | Date | Location |
 --- | --- | --- | --- |
 [Positive Psychiatry and Mental Health](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Positive_Psychiatry.pdf) | (20h.) | November 2020 | Coursera |
 
-# Instituto Internacional de la UNESCO para la Educación Superior en América Latina y el Caribe
+### Instituto Internacional de la UNESCO para la Educación Superior en América Latina y el Caribe
 
 Title | Duration | Date | Location |
 --- | --- | --- | --- |
 [Desigualdades y Juventudes en América Latina y el Caribe](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Desigualdades_America_Latina_y_Caribe.pdf) | (12h.) | December 2020 | Miríada X |
 
-# Universidad de Valladolid
+### Universidad de Valladolid
 
 Title | Duration | Date | Location |
 --- | --- | --- | --- |
@@ -409,7 +409,7 @@ Title | Duration | Date | Location |
 [8 habilidades clave en la era digital](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Habilidades_era_digital.pdf) | (20h.) | January 2021 | Miríada X |
 Total | (90h.) | | |
 
-# University of Toronto
+### University of Toronto
 
 Title | Duration | Date | Location |
 --- | --- | --- | --- |
@@ -419,13 +419,13 @@ Title | Duration | Date | Location |
 [The arts and science of relationships: Understanding human needs](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Human_needs.pdf) | (24h.) | July 2021 | Coursera |
 Total | (59h.) | | |
 
-# Universidade de Santiago de Compostela
+### Universidade de Santiago de Compostela
 
 Title | Duration | Date | Location |
 --- | --- | --- | --- |
 [El Camino de Santiago: Patrimonio de la Humanidad para un mundo global](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Camino_Santiago_PUB.pdf) | (25h.) | April 2021 | Miríada X |
 
-# The University of Queensland
+### The University of Queensland
 
 Title | Duration | Date | Location |
 --- | --- | --- | --- |
@@ -434,7 +434,7 @@ Title | Duration | Date | Location |
 [The Science of Everyday Thinking](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Science_of_everyday_thinking.pdf) | (30h.) | February 2022 | edX |
 Total | (64h.) | | |
 
-# Duke University
+### Duke University
 
 Title | Duration | Date | Location |
 --- | --- | --- | --- |
@@ -445,7 +445,7 @@ Title | Duration | Date | Location |
 [Introduction to logic and critical thinking](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Introduction_to_logic_and_critical_thinking.pdf) | (80h.) | March 2022 | Coursera |
 Total | (80h.) | | |
 
-# Stanford University
+### Stanford University
 
 Title | Duration | Date | Location |
 --- | --- | --- | --- |
@@ -457,7 +457,7 @@ Title | Duration | Date | Location |
 [COVID-19 training for healthcare workers](https://github.com/gomezabajo/courses/blob/main/pdf/2021_COVID_Healthcare.pdf) | (8h.) | December 2021 | Coursera |
 Total | (252h.) | | |
 
-# Pontificia Universidad Católica de Valparaíso
+### Pontificia Universidad Católica de Valparaíso
 
 Title | Duration | Date | Location |
 --- | --- | --- | --- |
