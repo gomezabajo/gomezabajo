@@ -160,6 +160,7 @@ Title | Duration | Date | Location |
 [La protección del menor](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Proteccion_del_menor.pdf) | (25h.) | September 2021 | edX |
 [El lenguaje de los mapas](https://github.com/gomezabajo/courses/blob/main/pdf/2021_El_lenguaje_de_los_mapas.pdf) | (25h.) | December 2021 | edX |
 [La percepción del paisaje](https://github.com/gomezabajo/courses/blob/main/pdf/2021_La_percepcion_del_paisaje.pdf) | (25h.) | December 2021 | edX |
+[Taller: Cómo comunicar con asertividad](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Asertividad_PUB.pdf) | (2h.) | March 2022 | |
 Total | (1271h.) | | |
 
 ### Instituto de Empleo, Servicio Público de Empleo Estatal
@@ -248,6 +249,13 @@ Title | Duration | Date | Location |
 [Periodismo y verificación de noticias en la era de las fake news](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Fake_news_UNED.pdf) | (25h.) | November 2021 | UNED Abierta |
 [Cómo formar en diseño para todas las personas](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Disenno_para_todos_UNED.pdf) | (12h.) | December 2021 | UNED Abierta |
 [Sistemas Inteligentes de Transporte y Vehículos Autónomos: estado actual de la tecnología en 2021](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Vehiculos_autonomos_UNED_PUB.pdf) | (20h.) | January 2022 | |
+[Introducción a la sostenibilidad en la docencia universitaria](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Sostenibilidad_UNED.pdf) | (25h.) | March 2022 | UNED Abierta |
+[Gramática inglesa para curso de acceso](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Gramatica_inglesa_UNED.pdf) | (25h.) | March 2022 | UNED Abierta |
+[Segunda Jornada para la Inclusión Educativa](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Segunda_Jornada_Inclusion_Educativa_PUB.pdf) | (10h.) | March 2022 | UNED Abierta |
+[Urgencias y emergencias sanitarias](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Urgencias_y_emergencias_sanitarias_UNED.pdf) | (25h.) | April 2022 | UNED Abierta | 
+[Habilidades de gestión de datos para la cooperación al desarrollo](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Gestion_Datos_Desarrollo_UNED.pdf) | (25h.) | May 2022 | UNED Abierta | 
+[Accesibilidad universal y mujeres: discapacidad y derechos humanos](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Accesibilidad_universal_mujeres_UNED.pdf) | (12h.) | May 2022 | UNED Abierta | 
+[The language of wines: English for wine experts and lovers](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Wines_lovers_UNED.pdf) | (25h.) | May 2022 | UNED Abierta | 
 Total | (867,5h.) | | |
 
 ### Universidad de la Laguna
@@ -329,6 +337,7 @@ Title | Duration | Date | Location |
 [The Modern and the Postmodern (Part 2)](https://github.com/gomezabajo/courses/blob/main/pdf/2021_The_Modern_and_the_Postmodern_Part_2.pdf) | (14h.) | May 2021 | Coursera |
 [Suicide prevention](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Suicide_prevention.pdf) | (7h.) | December 2021 | Coursera |
 [The Ancient Greeks](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Ancient_Greeks.pdf) | (20h.) | January 2022 | Coursera |
+[Creative Writing: The Craft of Setting and Description](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Creative_Writing_The_Craft_of_Setting_and_Description.pdf) | (12h.) | April 2022 | Coursera |
 Total | (111h.) | | |
 
 ### Universidad del País Vasco
@@ -394,6 +403,7 @@ Title | Duration | Date | Location |
 Title | Duration | Date | Location |
 --- | --- | --- | --- |
 [Positive Psychiatry and Mental Health](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Positive_Psychiatry.pdf) | (20h.) | November 2020 | Coursera |
+[Information & digital literacy for university success](https://www.gomezabajo.es/pdf/courses/2022_University_success_I.pdf) | (30h.) | May 2022 | Coursera |
 
 ### Instituto Internacional de la UNESCO para la Educación Superior en América Latina y el Caribe
 
@@ -468,4 +478,3 @@ Title | Duration | Date | Location |
 [Ser ciudadano hoy](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Ser_ciudadano_hoy.pdf) | (18h.) | November 2021 | Miríada X |
 [Alfabetización científica: ciencia para todos](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Ciencia_para_todos.pdf) | (18h.) | November 2021 | Miríada X |
 Total | (96h.) | | |
-
