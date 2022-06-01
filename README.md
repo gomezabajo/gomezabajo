@@ -16,7 +16,7 @@ Since 2019 he holds a position as an assistant professor in the Computer Science
 
 This page contains links to files in Postscript (ps) or Portable Document Format (pdf) of articles which may be covered by copyright. Copying or distributing these files may violate copyright law. In any case, don't hesitate to contact me if you need an electronic copy of some of the papers or presentations. You can also have a look at my publications from the <a href="http://dblp.uni-trier.de/pers/hc/g/G=oacute=mez=Abajo:Pablo" target="_blank">DBLP</a> server and <a href="https://scholar.google.com/citations?user=h7VMrcIAAAAJ&hl=en" target="_blank">Google Scholar</a>.
 
-#### Nº | Name | Authors | Conference/Journal/Event | Location | Award | Year |
+Nº | Name | Authors | Conference/Journal/Event | Location | Award | Year |
 --- | --- | --- | --- | --- | --- | --- | 
 23 | [Analyzing the reliability of simulated distributed systems using Metamorphic Testing](https://www.miso.es/pubs/MET_2022.pdf) | Alberto Núñez, Pablo C. Cañizares, Pablo Gómez-Abajo, Esther Guerra, Juan de Lara | International workshop on Metamorphic Testing (MET at ICSE) | Pittsburgh. Virtual | -- | 2022
 22 | [New ideas: Automated engineering of metamorphic testing environments for domain-specific languages](https://dl.acm.org/doi/10.1145/3486608.3486904) | Pablo C. Cañizares, Pablo Gómez-Abajo, Alberto Núñez, Esther Guerra, Juan de Lara | ACM SIGPLAN International Conference on Software Language Engineering (SLE) | Chicago. Virtual | Best new ideas/vision paper award at SLE'21 | 2021
