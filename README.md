@@ -17,49 +17,49 @@ Since 2019 he holds a position as an assistant professor in the Computer Science
 This page contains links to files in Postscript (ps) or Portable Document Format (pdf) of articles which may be covered by copyright. Copying or distributing these files may violate copyright law. In any case, don't hesitate to contact me if you need an electronic copy of some of the papers or presentations. You can also have a look at my publications from the <a href="http://dblp.uni-trier.de/pers/hc/g/G=oacute=mez=Abajo:Pablo" target="_blank">DBLP</a> server and <a href="https://scholar.google.com/citations?user=h7VMrcIAAAAJ&hl=en" target="_blank">Google Scholar</a>.
 
 Name | Authors | Conference/Journal/Event | Location | Award | Year |
---- | --- | --- | --- | -- | -- | 
-[Analyzing the reliability of simulated distributed systems using Metamorphic Testing](https://www.miso.es/pubs/MET_2022.pdf) | Alberto Núñez, Pablo C. Cañizares, Pablo Gómez-Abajo, Esther Guerra, Juan de Lara | International workshop on Metamorphic Testing (MET at ICSE) | Pittsburgh. Virtual | -- | 2022
-[New ideas: Automated engineering of metamorphic testing environments for domain-specific languages](https://dl.acm.org/doi/10.1145/3486608.3486904) | Pablo C. Cañizares, Pablo Gómez-Abajo, Alberto Núñez, Esther Guerra, Juan de Lara | ACM SIGPLAN International Conference on Software Language Engineering (SLE) | Chicago. Virtual | Best new ideas/vision paper award at SLE'21 | 2021
-[Wodel-Edu: An MDE solution for the generation and evaluation of diagram-based exercises](https://ieeexplore.ieee.org/abstract/document/9643676) | Pablo Gómez-Abajo, Andrés Rico-Fernández, Esther Guerra, Juan de Lara | ACM/IEEE 24th International Conference on Model Driven Engineering Languages and Systems (MoDELS) | Tokyo. Virtual | Best demo award at MoDELS'21 | 2021
-[Wodel-Test: A model-based framework for language-independent mutation testing](https://link.springer.com/article/10.1007/s10270-020-00827-0) | Pablo Gómez-Abajo, Esther Guerra, Juan de Lara, Mercedes G. Merayo | ACM/IEEE 24th International Conference on Model Driven Engineering Languages and Systems (MoDELS) | Tokyo. Virtual | Journal 1st | 2021
-[Wodel-Test: A model-based framework for language-independent mutation testing](https://biblioteca.sistedes.es/submissions/descargas/2021/JISBD/2021-JISBD-020.pdf) | Pablo Gómez-Abajo, Esther Guerra, Juan de Lara, Mercedes G. Merayo | Jornadas de Ingeniería del Software y Bases de Datos (JISBD) | Málaga | Journal 1st | 2021
-[Mutation Testing for RoboChart](https://link.springer.com/chapter/10.1007%2F978-3-030-66494-7_11) | Robert M. Hierons, Maciej Gazda, Pablo Gómez-Abajo, Raluca Lefticaru, Mercedes G. Merayo | Software Engineering for Robotics (Springer). pp.:345–375. | -- | -- | 2021
-[Wodel-Test: A model-based framework for language-independent mutation testing](https://link.springer.com/article/10.1007/s10270-020-00827-0) | Pablo Gómez-Abajo, Esther Guerra, Juan de Lara, Mercedes G. Merayo | Software and Systems Modeling, (Springer), Vol 20 (June). pp.:767–793 | -- | -- | 2021
-[Systematic engineering of mutation operators](http://www.jot.fm/issues/issue_2020_03/article5.pdf) | Pablo Gómez-Abajo, Esther Guerra, Juan de Lara, Mercedes G. Merayo | Journal of Object Technology, Vol 19 (October). pp.:3:1-16 | -- | -- | 2020
-[A domain-specific language for model mutation](https://repositorio.uam.es/handle/10486/693951) | Pablo Gómez-Abajo | Thesis document. Doctor of Philosophy (PhD) in Computer Science and Engineering | Universidad Autónoma de Madrid | Excellent cum laude | 2020
-[Seed model synthesis for testing model-based mutation operators](https://link.springer.com/chapter/10.1007/978-3-030-58135-0_6) | Pablo Gómez-Abajo, Esther Guerra, Juan de Lara, Mercedes G. Merayo | International Conference on Advanced Information Systems Engineering (CAiSE Forum). Lecture Notes in Business Information Processing (Springer) | Grenoble. Virtual | -- | 2020
-[Wodel-Test: A language-independent approach for the generation of mutation testing tools](https://www.gomezabajo.es/pdf/FOC-IMDEA.2019.Wodel-Test.pdf) | Pablo Gómez-Abajo, Esther Guerra, Juan de Lara, Mercedes G. Merayo | Workshop on Software Reliability for Madrid Flight On Chip | IMDEA Software Institute, Madrid | -- | 2019
-[Mutation testing for DSLs (tool demo)](https://dl.acm.org/doi/10.1145/3358501.3361234) | Pablo Gómez-Abajo, Esther Guerra, Juan de Lara, Mercedes G. Merayo | ACM SIGPLAN International Workshop on Domain-Specific Modeling (DSM) | Athens | -- | 2019
-[Desafíos éticos del coche autónomo](https://www.gomezabajo.es/pdf/UAM_coche_autonomo_2019.pdf) | Pablo Gómez-Abajo | Course 'Metodologías y problemas actuales de la investigación científica' | Universidad Autónoma de Madrid | -- | 2019
-[A tool for domain-independent model mutation](https://www.sciencedirect.com/science/article/pii/S0167642318300261) | Pablo Gómez-Abajo, Esther Guerra, Juan de Lara, Mercedes G. Merayo | Science of Computer Programming, (Elsevier), Vol 163 (October). pp.:85-92. | -- | -- | 2018
-[Towards a model-driven engineering solution for language independent mutation testing](https://biblioteca.sistedes.es/submissions/descargas/2018/JISBD/2018-JISBD-055.pdf) | Pablo Gómez-Abajo, Esther Guerra, Juan de Lara, Mercedes G. Merayo | Jornadas de Ingeniería del Software y Bases de Datos (JISBD) | Sevilla | -- | 2018
-[Un entorno de pruebas de mutación para sistemas de control del tráfico](https://www.gomezabajo.es/pdf/UAM_wodel_trafico_2018.pdf) | Pablo Gómez-Abajo | Course 'Metodologías y problemas actuales de la investigación científica' | Universidad Autónoma de Madrid | -- | 2018
-[Poster: "Adoption of the visual brainstorming technique in the open source software development process"](https://www.gomezabajo.es/pdf/ICSE_Poster_from_Research_Track_2018_3_complete.pdf) | Lucrecia Llerena, Nancy Rodríguez, Pablo Gómez-Abajo, John W. Castro, Silvia T. Acuña | International Conference on Software Engineering (ICSE) | Gothenburg | -- | 2018 
-[A domain-specific language for model mutation and its application to the automated generation of exercises](https://www.sciencedirect.com/science/article/pii/S147784241630094X) | Pablo Gómez-Abajo, Esther Guerra, Juan de Lara | Computer Languages, Systems and Structures (Elsevier), Vol 49 (September). pp.:152-173 | -- | Best papers of Programming Languages track at SAC'16 | 2017 
-[How to apply the user profile usability technique in the user modelling activity for an adaptive food recommendation system for people on special diets (extended version)](http://www.iiisci.org/journal/sci/FullText.asp?var=&id=SA367OQ17) | Lucrecia Llerena, Nancy Rodríguez, Pablo Gómez-Abajo, John W. Castro | Journal of Systemics Cybernetics and Informatics (JSCI) | -- | -- | 2017 
-[A DSL for model mutation and its applications to different domains](http://ceur-ws.org/Vol-1735/paper4.pdf) | Pablo Gómez-Abajo | Doctoral Symposium at the International Conference of Model-Driven Engineering Languages and Systems 2016 (MoDELS) | Saint-Malo |  -- | 2016 
-[Poster: "Wodel: A DSL for model mutation; and Wodel-Edu: its application to the automated generation of exercises"](https://www.gomezabajo.es/pdf/DSM-TP.2016-Wodel-complete.pdf) | Pablo Gómez-Abajo, Esther Guerra, Juan de Lara | 7th International Summer School on Domain-Specific Modeling (DSM-TP) | Genève |  -- | 2016 
-[A framework for the automated generation of exercises via model mutation](https://repositorio.uam.es/handle/10486/676054) | Pablo Gómez-Abajo | Final master's thesis. Master’s Program (MSc) in ICT Research and Innovation | Universidad Autónoma de Madrid |  Special mention | 2016 
-[Wodel: A domain-specific language for model mutation](https://dl.acm.org/doi/10.1145/2851613.2851751) | Pablo Gómez-Abajo, Esther Guerra, Juan de Lara | Symposium on Applied Computing 2016 (SAC). pp.:1968-1973 | Pisa |  -- | 2016 
+--- | --- | --- | --- | --- | -- | -- | 
+###22 | [Analyzing the reliability of simulated distributed systems using Metamorphic Testing](https://www.miso.es/pubs/MET_2022.pdf) | Alberto Núñez, Pablo C. Cañizares, Pablo Gómez-Abajo, Esther Guerra, Juan de Lara | International workshop on Metamorphic Testing (MET at ICSE) | Pittsburgh. Virtual | -- | 2022
+###21 | [New ideas: Automated engineering of metamorphic testing environments for domain-specific languages](https://dl.acm.org/doi/10.1145/3486608.3486904) | Pablo C. Cañizares, Pablo Gómez-Abajo, Alberto Núñez, Esther Guerra, Juan de Lara | ACM SIGPLAN International Conference on Software Language Engineering (SLE) | Chicago. Virtual | Best new ideas/vision paper award at SLE'21 | 2021
+###20 | [Wodel-Edu: An MDE solution for the generation and evaluation of diagram-based exercises](https://ieeexplore.ieee.org/abstract/document/9643676) | Pablo Gómez-Abajo, Andrés Rico-Fernández, Esther Guerra, Juan de Lara | ACM/IEEE 24th International Conference on Model Driven Engineering Languages and Systems (MoDELS) | Tokyo. Virtual | Best demo award at MoDELS'21 | 2021
+###19 | [Wodel-Test: A model-based framework for language-independent mutation testing](https://link.springer.com/article/10.1007/s10270-020-00827-0) | Pablo Gómez-Abajo, Esther Guerra, Juan de Lara, Mercedes G. Merayo | ACM/IEEE 24th International Conference on Model Driven Engineering Languages and Systems (MoDELS) | Tokyo. Virtual | Journal 1st | 2021
+###18 | [Wodel-Test: A model-based framework for language-independent mutation testing](https://biblioteca.sistedes.es/submissions/descargas/2021/JISBD/2021-JISBD-020.pdf) | Pablo Gómez-Abajo, Esther Guerra, Juan de Lara, Mercedes G. Merayo | Jornadas de Ingeniería del Software y Bases de Datos (JISBD) | Málaga | Journal 1st | 2021
+###17 | [Mutation Testing for RoboChart](https://link.springer.com/chapter/10.1007%2F978-3-030-66494-7_11) | Robert M. Hierons, Maciej Gazda, Pablo Gómez-Abajo, Raluca Lefticaru, Mercedes G. Merayo | Software Engineering for Robotics (Springer). pp.:345–375. | -- | -- | 2021
+###16 | [Wodel-Test: A model-based framework for language-independent mutation testing](https://link.springer.com/article/10.1007/s10270-020-00827-0) | Pablo Gómez-Abajo, Esther Guerra, Juan de Lara, Mercedes G. Merayo | Software and Systems Modeling, (Springer), Vol 20 (June). pp.:767–793 | -- | -- | 2021
+###15 | [Systematic engineering of mutation operators](http://www.jot.fm/issues/issue_2020_03/article5.pdf) | Pablo Gómez-Abajo, Esther Guerra, Juan de Lara, Mercedes G. Merayo | Journal of Object Technology, Vol 19 (October). pp.:3:1-16 | -- | -- | 2020
+###14 | [A domain-specific language for model mutation](https://repositorio.uam.es/handle/10486/693951) | Pablo Gómez-Abajo | Thesis document. Doctor of Philosophy (PhD) in Computer Science and Engineering | Universidad Autónoma de Madrid | Excellent cum laude | 2020
+###13 | [Seed model synthesis for testing model-based mutation operators](https://link.springer.com/chapter/10.1007/978-3-030-58135-0_6) | Pablo Gómez-Abajo, Esther Guerra, Juan de Lara, Mercedes G. Merayo | International Conference on Advanced Information Systems Engineering (CAiSE Forum). Lecture Notes in Business Information Processing (Springer) | Grenoble. Virtual | -- | 2020
+###12 | [Wodel-Test: A language-independent approach for the generation of mutation testing tools](https://www.gomezabajo.es/pdf/FOC-IMDEA.2019.Wodel-Test.pdf) | Pablo Gómez-Abajo, Esther Guerra, Juan de Lara, Mercedes G. Merayo | Workshop on Software Reliability for Madrid Flight On Chip | IMDEA Software Institute, Madrid | -- | 2019
+###11 | [Mutation testing for DSLs (tool demo)](https://dl.acm.org/doi/10.1145/3358501.3361234) | Pablo Gómez-Abajo, Esther Guerra, Juan de Lara, Mercedes G. Merayo | ACM SIGPLAN International Workshop on Domain-Specific Modeling (DSM) | Athens | -- | 2019
+###10 | [Desafíos éticos del coche autónomo](https://www.gomezabajo.es/pdf/UAM_coche_autonomo_2019.pdf) | Pablo Gómez-Abajo | Course 'Metodologías y problemas actuales de la investigación científica' | Universidad Autónoma de Madrid | -- | 2019
+###9 | [A tool for domain-independent model mutation](https://www.sciencedirect.com/science/article/pii/S0167642318300261) | Pablo Gómez-Abajo, Esther Guerra, Juan de Lara, Mercedes G. Merayo | Science of Computer Programming, (Elsevier), Vol 163 (October). pp.:85-92. | -- | -- | 2018
+###8 | [Towards a model-driven engineering solution for language independent mutation testing](https://biblioteca.sistedes.es/submissions/descargas/2018/JISBD/2018-JISBD-055.pdf) | Pablo Gómez-Abajo, Esther Guerra, Juan de Lara, Mercedes G. Merayo | Jornadas de Ingeniería del Software y Bases de Datos (JISBD) | Sevilla | -- | 2018
+###7 | [Un entorno de pruebas de mutación para sistemas de control del tráfico](https://www.gomezabajo.es/pdf/UAM_wodel_trafico_2018.pdf) | Pablo Gómez-Abajo | Course 'Metodologías y problemas actuales de la investigación científica' | Universidad Autónoma de Madrid | -- | 2018
+###6 | [Poster: "Adoption of the visual brainstorming technique in the open source software development process"](https://www.gomezabajo.es/pdf/ICSE_Poster_from_Research_Track_2018_3_complete.pdf) | Lucrecia Llerena, Nancy Rodríguez, Pablo Gómez-Abajo, John W. Castro, Silvia T. Acuña | International Conference on Software Engineering (ICSE) | Gothenburg | -- | 2018 
+###5 | [A domain-specific language for model mutation and its application to the automated generation of exercises](https://www.sciencedirect.com/science/article/pii/S147784241630094X) | Pablo Gómez-Abajo, Esther Guerra, Juan de Lara | Computer Languages, Systems and Structures (Elsevier), Vol 49 (September). pp.:152-173 | -- | Best papers of Programming Languages track at SAC'16 | 2017 
+###4 | [How to apply the user profile usability technique in the user modelling activity for an adaptive food recommendation system for people on special diets (extended version)](http://www.iiisci.org/journal/sci/FullText.asp?var=&id=SA367OQ17) | Lucrecia Llerena, Nancy Rodríguez, Pablo Gómez-Abajo, John W. Castro | Journal of Systemics Cybernetics and Informatics (JSCI) | -- | -- | 2017 
+###4 | [A DSL for model mutation and its applications to different domains](http://ceur-ws.org/Vol-1735/paper4.pdf) | Pablo Gómez-Abajo | Doctoral Symposium at the International Conference of Model-Driven Engineering Languages and Systems 2016 (MoDELS) | Saint-Malo |  -- | 2016 
+###3 | [Poster: "Wodel: A DSL for model mutation; and Wodel-Edu: its application to the automated generation of exercises"](https://www.gomezabajo.es/pdf/DSM-TP.2016-Wodel-complete.pdf) | Pablo Gómez-Abajo, Esther Guerra, Juan de Lara | 7th International Summer School on Domain-Specific Modeling (DSM-TP) | Genève |  -- | 2016 
+###2 | [A framework for the automated generation of exercises via model mutation](https://repositorio.uam.es/handle/10486/676054) | Pablo Gómez-Abajo | Final master's thesis. Master’s Program (MSc) in ICT Research and Innovation | Universidad Autónoma de Madrid |  Special mention | 2016 
+###1 | [Wodel: A domain-specific language for model mutation](https://dl.acm.org/doi/10.1145/2851613.2851751) | Pablo Gómez-Abajo, Esther Guerra, Juan de Lara | Symposium on Applied Computing 2016 (SAC). pp.:1968-1973 | Pisa |  -- | 2016 
 
 ## University Education
 
 Name | Year |
 --- | --- |
-[PhD in Computer Science and Engineering](https://github.com/gomezabajo/academy/blob/main/diplomas/2020_PhD_Computer_Science_and_Engineering.pdf) | 2016-2020 |
-[PhD supporting document](https://github.com/gomezabajo/academy/blob/main/diplomas/2020_PhD_Computer_Science_and_Engineering_payment_PUB.pdf) | 2016-2020 |
-[PhD certificate](https://github.com/gomezabajo/academy/blob/main/diplomas/2020_PhD_Computer_Science_and_Engineering_certificate_PUB.pdf) | 2016-2020 |
+[PhD in Computer Science and Engineering](https://github.com/gomezabajo/academy/blob/main/diplomas/2020_PhD_Computer_Science_and_Engineering.pdf) | 2020 |
+[PhD supporting document](https://github.com/gomezabajo/academy/blob/main/diplomas/2020_PhD_Computer_Science_and_Engineering_payment_PUB.pdf) | 2020 |
+[PhD certificate](https://github.com/gomezabajo/academy/blob/main/diplomas/2020_PhD_Computer_Science_and_Engineering_certificate_PUB.pdf) | 2020 |
 [PhD cum laude notification](https://github.com/gomezabajo/academy/blob/main/diplomas/2020_PhD_Computer_Science_and_Engineering_cum_laude.pdf) | 2020 |
 [PhD thesis document](https://github.com/gomezabajo/academy/blob/main/works/2020_PhD_Computer_Science_and_Engineering_Thesis.pdf) | 2020 |
 [PhD defense presentation](https://github.com/gomezabajo/academy/blob/main/works/2020_PhD_Computer_Science_presentation.pdf) | 2020 |
-[MSc ICT Research and Innovation](https://github.com/gomezabajo/academy/blob/main/diplomas/2016_Titulo_Master_i2-TIC.pdf) | 2014-2016 |
-[MSc official transcript of grades](https://github.com/gomezabajo/academy/blob/main/diplomas/2016_Certificado_Notas_Master_i2-TIC_MH_digital_PUB.pdf) | 2014-2016 |
+[MSc ICT Research and Innovation](https://github.com/gomezabajo/academy/blob/main/diplomas/2016_Titulo_Master_i2-TIC.pdf) | 2016 |
+[MSc official transcript of grades](https://github.com/gomezabajo/academy/blob/main/diplomas/2016_Certificado_Notas_Master_i2-TIC_MH_digital_PUB.pdf) | 2016 |
 [MSc thesis document](https://github.com/gomezabajo/academy/blob/main/works/2016_Master_i2-TIC_TFM.pdf) | 2016 |
 [MSc thesis defense presentation](https://github.com/gomezabajo/academy/blob/main/works/2016_TFM_pgomez_es.pdf) | 2016 |
-[BSc in Computer Science](https://github.com/gomezabajo/academy/blob/main/diplomas/2006_Titulo_Ingeniero_en_Informatica_compulsado.pdf) | 2000-2006 |
-[BSc official transcript of grades](https://github.com/gomezabajo/academy/blob/main/diplomas/2006_Certificado_Notas_Ingeniero_en_Informatica_digital_PUB.pdf) | 2000-2006 |
-[Europass diploma suplement](https://www.gomezabajo.es/pdf/2015_SET_Titulo_Ingeniero_en_Informatica_PUB.pdf) | 2000-2006 |
-[Certificate of correspondence](https://github.com/gomezabajo/academy/blob/main/diplomas/2016_Certificado_de_correspondencia_PUB.pdf) | 2000-2006 |
+[BSc in Computer Science](https://github.com/gomezabajo/academy/blob/main/diplomas/2006_Titulo_Ingeniero_en_Informatica_compulsado.pdf) | 2006 |
+[BSc official transcript of grades](https://github.com/gomezabajo/academy/blob/main/diplomas/2006_Certificado_Notas_Ingeniero_en_Informatica_digital_PUB.pdf) | 2006 |
+[Europass diploma suplement](https://www.gomezabajo.es/pdf/2015_SET_Titulo_Ingeniero_en_Informatica_PUB.pdf) | 2006 |
+[Certificate of correspondence](https://github.com/gomezabajo/academy/blob/main/diplomas/2016_Certificado_de_correspondencia_PUB.pdf) | 2006 |
 [Road to Santiago](https://github.com/gomezabajo/academy/blob/main/diplomas/2003_Camino_de_Santiago.pdf) | 2003 |
 [University access certification](https://github.com/gomezabajo/academy/blob/main/diplomas/2000_Certificado_PAU_PUB.pdf) | 2000 |
 
@@ -103,31 +103,31 @@ Name | Level | Institution | Year |
 
 Title | Duration | Date | Location |
 --- | --- | --- | --- |
-[Linux, un entorno abierto](https://github.com/gomezabajo/courses/blob/main/pdf/2002_Linux_un_entorno_abierto.pdf) | (32h.) | July 2002 | |
-[Curso de Cine y Pensamiento Contemporáneo "Identidad y fragilidad"](https://github.com/gomezabajo/courses/blob/main/pdf/2004_Cine_y_pensamiento_contemporaneo_Identidad_y_Fragilidad.pdf) | (20h.) | May 2004 | |
-[Seminario "El Sonido Posible"](https://github.com/gomezabajo/courses/blob/main/pdf/2004_El_sonido_posible.pdf) | (15h.) | June 2004 | |
-[1er Curso Interdisciplinar Cultura Digital y Ciudadanía](https://github.com/gomezabajo/courses/blob/main/pdf/2004_Cultura_Digital_y_Ciudadania.pdf) | (32h.) | July 2004 | |
-[Linux, un entorno abierto](https://github.com/gomezabajo/courses/blob/main/pdf/2004_Linux_un_entorno_abierto.pdf) | (20h.) | August 2004 | |
-[Congreso Internacional "Cultura Digital y Ciudadanía"](https://github.com/gomezabajo/courses/blob/main/pdf/2004_Congreso_Internacional_Cultura_Digital_y_Ciudadania.pdf) | (36h.) | November 2004 | |
-[Taller de diseño para todos aplicado a las nuevas tecnologías](https://github.com/gomezabajo/courses/blob/main/pdf/2004_Disenno_para_todos_aplicado_a_las_nuevas_tecnologias.pdf) | (10h.) | November 2004 | |
-[Curso de Música Electroacústica. Punto de encuentro](https://github.com/gomezabajo/courses/blob/main/pdf/2004_13_Festival_de_musica_electroacustica.pdf) | (30h.) | December 2004 | |
-[Globalización, transformaciones sociales y espacios de esperanza](https://github.com/gomezabajo/courses/blob/main/pdf/2005_Globalizacion_transformaciones_sociales_y_espacios_de_esperanza.pdf) | (20h.) | May 2005 | |
-[Pensar en ciudadanía](https://github.com/gomezabajo/courses/blob/main/pdf/2005_Pensar_en_ciudadania.pdf) | (20h.) | December 2005 | |
-[Las Neurociencias en la Medicina del S.XXI](https://github.com/gomezabajo/courses/blob/main/pdf/2006_Neurociencias.pdf) | (20h.) | March 2006 | |
+[Linux, un entorno abierto](https://github.com/gomezabajo/courses/blob/main/pdf/2002_Linux_un_entorno_abierto.pdf) | (32h.) | July 2002 | Residencia La Cristalera |
+[Curso de Cine y Pensamiento Contemporáneo "Identidad y fragilidad"](https://github.com/gomezabajo/courses/blob/main/pdf/2004_Cine_y_pensamiento_contemporaneo_Identidad_y_Fragilidad.pdf) | (20h.) | May 2004 | Colegio Mayor Luis Vives |
+[Seminario "El Sonido Posible"](https://github.com/gomezabajo/courses/blob/main/pdf/2004_El_sonido_posible.pdf) | (15h.) | June 2004 | Colegio Mayor Luis Vives |
+[1er Curso Interdisciplinar Cultura Digital y Ciudadanía](https://github.com/gomezabajo/courses/blob/main/pdf/2004_Cultura_Digital_y_Ciudadania.pdf) | (32h.) | July 2004 | Escuela Politécnica Superior |
+[Linux, un entorno abierto](https://github.com/gomezabajo/courses/blob/main/pdf/2004_Linux_un_entorno_abierto.pdf) | (20h.) | August 2004 | Residencia La Cristalera |
+[Congreso Internacional "Cultura Digital y Ciudadanía"](https://github.com/gomezabajo/courses/blob/main/pdf/2004_Congreso_Internacional_Cultura_Digital_y_Ciudadania.pdf) | (36h.) | November 2004 | Escuela Politécnica Superior |
+[Taller de diseño para todos aplicado a las nuevas tecnologías](https://github.com/gomezabajo/courses/blob/main/pdf/2004_Disenno_para_todos_aplicado_a_las_nuevas_tecnologias.pdf) | (10h.) | November 2004 | Escuela Politécnica Superior |
+[Curso de Música Electroacústica. Punto de encuentro](https://github.com/gomezabajo/courses/blob/main/pdf/2004_13_Festival_de_musica_electroacustica.pdf) | (30h.) | December 2004 | Colegio Mayor Luis Vives |
+[Globalización, transformaciones sociales y espacios de esperanza](https://github.com/gomezabajo/courses/blob/main/pdf/2005_Globalizacion_transformaciones_sociales_y_espacios_de_esperanza.pdf) | (20h.) | May 2005 | Cantoblanco |
+[Pensar en ciudadanía](https://github.com/gomezabajo/courses/blob/main/pdf/2005_Pensar_en_ciudadania.pdf) | (20h.) | December 2005 | Cantoblanco |
+[Las Neurociencias en la Medicina del S.XXI](https://github.com/gomezabajo/courses/blob/main/pdf/2006_Neurociencias.pdf) | (20h.) | March 2006 | Facultad de Medicina |
 [Competencias Profesionales (Perfil Emprendedores)](https://github.com/gomezabajo/courses/blob/main/pdf/2014_Competencias_profesionales_perfil_emprendedores_PUB.pdf) | (30h.) | December 2014 | IIC-UAM |
 [Competencias Transversales (Comunicación e influencia)](https://github.com/gomezabajo/courses/blob/main/pdf/2015_Comunicacion_Influencia_IIC-UAM.pdf) | (30h.) | March 2015 | IIC-UAM |
 [Quijote501x: La España de El Quijote](https://github.com/gomezabajo/courses/blob/main/pdf/2015_La_Espanna_del_Quijote.pdf) | (42h.) | April 2015 | edX |
-[Introducción al bridge: Estrategia, colaboración y planificación](https://github.com/gomezabajo/courses/blob/main/pdf/2015_Bridge_introduccion.pdf) | (30h.) | September - December 2015 | |
+[Introducción al bridge: Estrategia, colaboración y planificación](https://github.com/gomezabajo/courses/blob/main/pdf/2015_Bridge_introduccion.pdf) | (30h.) | September - December 2015 | Escuela Politécnica Superior |
 [Jornada de Computación Cognitiva y Biomedicina](https://github.com/gomezabajo/courses/blob/main/pdf/2016_Catedra_UAM_IBM_Computacion_cognitiva_y_biomedicina.pdf) | (8h.) | February 2016 | Cátedra UAM/IBM |
-[II Semana de la Empleabilidad UAM - XII Foro de Empleo UAM](https://github.com/gomezabajo/courses/blob/main/pdf/2016_II_Semana_Empleabilidad_UAM_PUB.pdf) | (2h.) | February 2016 | |
-[Profundización en el Bridge: Evaluación, intervención y competición](https://github.com/gomezabajo/courses/blob/main/pdf/2015_Bridge_introduccion.pdf) | (30h.) | February 2016 - May 2016 | |
+[II Semana de la Empleabilidad UAM - XII Foro de Empleo UAM](https://github.com/gomezabajo/courses/blob/main/pdf/2016_II_Semana_Empleabilidad_UAM_PUB.pdf) | (2h.) | February 2016 | Escuela Politécnica Superior |
+[Profundización en el Bridge: Evaluación, intervención y competición](https://github.com/gomezabajo/courses/blob/main/pdf/2015_Bridge_introduccion.pdf) | (30h.) | February 2016 - May 2016 | Escuela Politécnica Superior |
 [Aprendizaje automático con datos funcionales](https://github.com/gomezabajo/courses/blob/main/pdf/2016_Aprendizaje_automatico_datos_funcionales.pdf) | (8h.) | July 2016 | Programa de posgrado de la EPS de la UAM |
-[III Semana de la Empleabilidad UAM - XIII Foro de Empleo UAM](https://github.com/gomezabajo/courses/blob/main/pdf/2017_III_Semana_Empleabilidad_UAM.pdf) | (1h.) | February 2017 | |
+[III Semana de la Empleabilidad UAM - XIII Foro de Empleo UAM](https://github.com/gomezabajo/courses/blob/main/pdf/2017_III_Semana_Empleabilidad_UAM.pdf) | (1h.) | February 2017 | Escuela Politécnica Superior |
 [Solución creativa de problemas](https://github.com/gomezabajo/courses/blob/main/pdf/2017_Solucion_Creativa_Problemas_PUB.pdf) | (50h.) | March 2017 | Curso de formación en competencias profesionales OPE-UAM |
 [Competencias Profesionales ADIC – UAM (Inteligencia social)](https://github.com/gomezabajo/courses/blob/main/pdf/2017_Inteligencia_social_IIC-UAM.pdf) | (30h.) | April 2017 | IIC-UAM |
 [Idealismo501x: Idealismo Filosófico: Cómo hacer Mundos con Ideas](https://github.com/gomezabajo/courses/blob/main/pdf/2017_Idealismo_filosofico_Como_hacer_mundos_con_ideas.pdf) | (25h.) | May 2017 | edX |
 [Jornada de Blockchain: mitos, posibilidades y realidades](https://github.com/gomezabajo/courses/blob/main/pdf/2017_Catedra_UAM_IBM_Blockchain.pdf) | (8h.) | October 2017 | Cátedra UAM/IBM |
-[III Jornada 'Construyendo una Universidad inclusiva'](https://github.com/gomezabajo/courses/blob/main/pdf/2018_III_Jornada_Universidad_Inclusiva_PUB.pdf) | (6h.) | April 2018 | |
+[III Jornada 'Construyendo una Universidad inclusiva'](https://github.com/gomezabajo/courses/blob/main/pdf/2018_III_Jornada_Universidad_Inclusiva_PUB.pdf) | (6h.) | April 2018 | Cantoblanco |
 [Competencias Profesionales ADIC – UAM (Inteligencia social)](https://github.com/gomezabajo/courses/blob/main/pdf/2018_Inteligencia_social_IIC-UAM.pdf) | (30h.) | May 2018 | IIC-UAM |
 [Introducción a la programación en C: Tipos de datos y estructuras](https://github.com/gomezabajo/courses/blob/main/pdf/2019_Introduccion_a_la_programacion_en_C_Tipos_de_datos_y_estructuras.pdf) | (16h.) | March 2019 | edX |
 [Introducción a la programación en C: Instrucciones de control y ficheros de texto](https://github.com/gomezabajo/courses/blob/main/pdf/2019_Introduccion_a_la_programacion_en_C_Instrucciones_de_control_y_ficheros_de_texto.pdf) | (16h.) | April 2019 | edX |
@@ -160,16 +160,16 @@ Title | Duration | Date | Location |
 [La protección del menor](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Proteccion_del_menor.pdf) | (25h.) | September 2021 | edX |
 [El lenguaje de los mapas](https://github.com/gomezabajo/courses/blob/main/pdf/2021_El_lenguaje_de_los_mapas.pdf) | (25h.) | December 2021 | edX |
 [La percepción del paisaje](https://github.com/gomezabajo/courses/blob/main/pdf/2021_La_percepcion_del_paisaje.pdf) | (25h.) | December 2021 | edX |
-[Taller: Cómo comunicar con asertividad](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Asertividad_PUB.pdf) | (2h.) | March 2022 | |
-Total | (1271h.) | | |
+[Taller: Cómo comunicar con asertividad](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Asertividad_PUB.pdf) | (2h.) | March 2022 | Cantoblanco |
+Total | (1273h.) | | |
 
 ### Instituto de Empleo, Servicio Público de Empleo Estatal
 
 Title | Duration | Date | Location |
 --- | --- | --- | --- |
-[Administrador de sistemas y operador de red](https://github.com/gomezabajo/courses/blob/main/pdf/2007_Administrador_de_sistemas_y_operador_de_red_PUB.pdf) | (250h.) | December 2006 - March 2007 | |
-[Carpintero (U.C. 3 y 4)](https://github.com/gomezabajo/courses/blob/main/pdf/2007_Carpinteria_PUB.pdf) | (309h.) | April - July 2007 | |
-[Diseño y modificación de planos en 2D y 3D](https://github.com/gomezabajo/courses/blob/main/pdf/2007_Disenno_y_modificacion_de_planos_en_2D_y_3D_PUB.pdf) | (180h.) | September - October 2007 | |
+[Administrador de sistemas y operador de red](https://github.com/gomezabajo/courses/blob/main/pdf/2007_Administrador_de_sistemas_y_operador_de_red_PUB.pdf) | (250h.) | December 2006 - March 2007 | Microforum |
+[Carpintero (U.C. 3 y 4)](https://github.com/gomezabajo/courses/blob/main/pdf/2007_Carpinteria_PUB.pdf) | (309h.) | April - July 2007 | Alcobendas |
+[Diseño y modificación de planos en 2D y 3D](https://github.com/gomezabajo/courses/blob/main/pdf/2007_Disenno_y_modificacion_de_planos_en_2D_y_3D_PUB.pdf) | (180h.) | September - October 2007 | Fundación Infored |
 Total | (739h.) | | |
 
 ### Universidad Camilo José Cela
@@ -182,12 +182,12 @@ Title | Duration | Date | Location |
 
 Title | Duration | Date | Location |
 --- | --- | --- | --- |
-[II Jornadas 'Ciencia y Fe': 'Pilares del Laicismo: Análisis Crítico desde la Ciencia'](https://github.com/gomezabajo/courses/blob/main/pdf/2014_II_Jornadas_ciencia_y_fe.pdf) | | June 2014 | |
-[III Jornadas 'Ciencia y Fe': 'Respuestas al fundamentalismo cientifista'](https://github.com/gomezabajo/courses/blob/main/pdf/2015_III_Jornadas_ciencia_y_fe.pdf) | | June 2015 | |
-[IV Jornadas 'Ciencia y Fe': 'La identidad humana: ¿Somos animales? ¿Somos seres libres? ¿Seremos máquinas?'](https://github.com/gomezabajo/courses/blob/main/pdf/2016_IV_Jornadas_ciencia_y_fe.pdf) | | June 2016 | |
-[V Jornadas 'Ciencia y Fe': 'Defendiendo la verdad'](https://github.com/gomezabajo/courses/blob/main/pdf/2017_V_Jornadas_ciencia_y_fe.pdf) | | June 2017 | |
-[VI Jornadas 'Ciencia y Fe': 'Dignidad humana y ciencia'](https://github.com/gomezabajo/courses/blob/main/pdf/2018_VI_Jornadas_ciencia_y_fe.pdf) | | June 2018 | |
-[VII Jornadas 'Ciencia y Fe': 'Ideología, mentiras camufladas'](https://github.com/gomezabajo/courses/blob/main/pdf/2019_VII_Jornadas_ciencia_y_fe.pdf) | | June 2019 | |
+[II Jornadas 'Ciencia y Fe': 'Pilares del Laicismo: Análisis Crítico desde la Ciencia'](https://github.com/gomezabajo/courses/blob/main/pdf/2014_II_Jornadas_ciencia_y_fe.pdf) | | June 2014 | Colegio Mayor San Pablo |
+[III Jornadas 'Ciencia y Fe': 'Respuestas al fundamentalismo cientifista'](https://github.com/gomezabajo/courses/blob/main/pdf/2015_III_Jornadas_ciencia_y_fe.pdf) | | June 2015 | Colegio Mayor San Pablo |
+[IV Jornadas 'Ciencia y Fe': 'La identidad humana: ¿Somos animales? ¿Somos seres libres? ¿Seremos máquinas?'](https://github.com/gomezabajo/courses/blob/main/pdf/2016_IV_Jornadas_ciencia_y_fe.pdf) | | June 2016 | Colegio Mayor San Pablo |
+[V Jornadas 'Ciencia y Fe': 'Defendiendo la verdad'](https://github.com/gomezabajo/courses/blob/main/pdf/2017_V_Jornadas_ciencia_y_fe.pdf) | | June 2017 | Colegio Mayor San Pablo |
+[VI Jornadas 'Ciencia y Fe': 'Dignidad humana y ciencia'](https://github.com/gomezabajo/courses/blob/main/pdf/2018_VI_Jornadas_ciencia_y_fe.pdf) | | June 2018 | Colegio Mayor San Pablo |
+[VII Jornadas 'Ciencia y Fe': 'Ideología, mentiras camufladas'](https://github.com/gomezabajo/courses/blob/main/pdf/2019_VII_Jornadas_ciencia_y_fe.pdf) | | June 2019 | Colegio Mayor San Pablo |
 
 ### Universidad Rey Juan Carlos
 
@@ -256,7 +256,7 @@ Title | Duration | Date | Location |
 [Habilidades de gestión de datos para la cooperación al desarrollo](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Gestion_Datos_Desarrollo_UNED.pdf) | (25h.) | May 2022 | UNED Abierta | 
 [Accesibilidad universal y mujeres: discapacidad y derechos humanos](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Accesibilidad_universal_mujeres_UNED.pdf) | (12h.) | May 2022 | UNED Abierta | 
 [The language of wines: English for wine experts and lovers](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Wines_lovers_UNED.pdf) | (25h.) | May 2022 | UNED Abierta | 
-Total | (867,5h.) | | |
+Total | (1014,5h.) | | |
 
 ### Universidad de la Laguna
 
@@ -268,7 +268,7 @@ Title | Duration | Date | Location |
 
 Title | Duration | Date | Location |
 --- | --- | --- | --- |
-[DSM-TP International Summer School 2016 on Domain-Specific Modeling](https://github.com/gomezabajo/courses/blob/main/pdf/2016_DSM-TP_Universite_de_Geneve.pdf) | (50h.) | August 2016 | |
+[DSM-TP International Summer School 2016 on Domain-Specific Modeling](https://github.com/gomezabajo/courses/blob/main/pdf/2016_DSM-TP_Universite_de_Geneve.pdf) | (50h.) | August 2016 | Genève |
 
 ### The University of Edinburgh
 
@@ -291,8 +291,8 @@ Total | (176h.) | | |
 
 Title | Duration | Date | Location |
 --- | --- | --- | --- |
-[Una panorámica de la minería de procesos: de la práctica a los retos algorítmicos](https://github.com/gomezabajo/courses/blob/main/pdf/2018_Mineria_de_procesos_PUB.pdf) | (8h.) | February 2018 | |
-[La computación autónoma desde la perspectiva de los Modelos en tiempo de Ejecución](https://github.com/gomezabajo/courses/blob/main/pdf/2018_Modelos_en_tiempo_de_ejecucion_PUB.pdf) | (4h.) | February 2018 | |
+[Una panorámica de la minería de procesos: de la práctica a los retos algorítmicos](https://github.com/gomezabajo/courses/blob/main/pdf/2018_Mineria_de_procesos_PUB.pdf) | (8h.) | February 2018 | Barcelona |
+[La computación autónoma desde la perspectiva de los Modelos en tiempo de Ejecución](https://github.com/gomezabajo/courses/blob/main/pdf/2018_Modelos_en_tiempo_de_ejecucion_PUB.pdf) | (4h.) | February 2018 | Barcelona |
 Total | (12h.) | | |
 
 ### Universidad Carlos III de Madrid
@@ -404,6 +404,7 @@ Title | Duration | Date | Location |
 --- | --- | --- | --- |
 [Positive Psychiatry and Mental Health](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Positive_Psychiatry.pdf) | (20h.) | November 2020 | Coursera |
 [Information & digital literacy for university success](https://www.gomezabajo.es/pdf/courses/2022_University_success_I.pdf) | (30h.) | May 2022 | Coursera |
+Total | (50h.) | | |
 
 ### Instituto Internacional de la UNESCO para la Educación Superior en América Latina y el Caribe
 
