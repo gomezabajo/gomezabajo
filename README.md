@@ -6,6 +6,12 @@ To keep improving his skills as an ICT professional, in 2015 he joined the <a hr
 
 Since 2019 he holds a position as an assistant professor in the Computer Science Department of the Universidad Autónoma de Madrid. During this period, he has been teaching courses on "Compilers" (120h.) and "Automata Theory" (30h.) of the degree in Computer Science. He has directed two final projects of the degree in Computer Science, both with a "Notable" as the final mark.
 
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stars][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=gomezabajo&show_icons=true)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gomezabajo&theme=blue-green)
@@ -480,3 +486,18 @@ Title | Duration | Date | Location |
 [Ser ciudadano hoy](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Ser_ciudadano_hoy.pdf) | (18h.) | November 2021 | Miríada X |
 [Alfabetización científica: ciencia para todos](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Ciencia_para_todos.pdf) | (18h.) | November 2021 | Miríada X |
 Total | (96h.) | | |
+
+[contributors-shield]: https://img.shields.io/github/contributors/gomezabajo/gomezabajo?style=for-the-badge
+[contributors-url]: https://github.com/gomezabajo/gomezabajo/graphs/contributors
+
+[stars-shield]: https://img.shields.io/github/stars/gomezabajo/gomezabajo?style=for-the-badge
+[stars-url]: https://github.com/gomezabajo/gomezabajo/network/stargazers
+
+[forks-shield]: https://img.shields.io/github/forks/gomezabajo/gomezabajo?style=for-the-badge
+[forks-url]: https://github.com/gomezabajo/gomezabajo/network/members
+
+[issues-shield]: https://img.shields.io/github/issues/gomezabajo/gomezabajo?style=for-the-badge
+[issues-url]: https://github.com/gomezabajo/gomezabajo/issues
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?logo=linkedin&style=for-the-badge
+[linkedin-url]: https://www.linkedin.com/in/gomezabajo
