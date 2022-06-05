@@ -443,7 +443,8 @@ Title | Duration | Date | Location |
 [Philosophy and Critical Thinking](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Philosophy_and_Critical_Thinking.pdf) | (24h.) | June 2021 | edX |
 [Introduction to Social Psychology](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Social_psychology.pdf) | (10h.) | January 2022 | edX |
 [The Science of Everyday Thinking](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Science_of_everyday_thinking.pdf) | (30h.) | February 2022 | edX |
-Total | (64h.) | | |
+[Anthropology of Current World Issues](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Anthropology.pdf) | (36h.) | June 2022 | edX |
+Total | (100h.) | | |
 
 ### Duke University
 
