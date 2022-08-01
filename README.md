@@ -17,7 +17,7 @@ Since 2019 he holds a position as an assistant professor in the Computer Science
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gomezabajo&theme=highcontrast)
 
 <p style="margin-top: 20px" align="center">
-<img src="https://komarev.com/ghpvc/?username=gomezabajo"/>
+  <a href="https://github.com/gomezabajo/"><img src="https://komarev.com/ghpvc/?username=gomezabajo"/></a>
   <a href="https://github.com/gomezabajo/"><img src="https://img.shields.io/github/followers/gomezabajo?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
 </p>
 
