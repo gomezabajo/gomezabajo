@@ -12,9 +12,9 @@ Since 2019 he holds a position as an assistant professor in the Computer Science
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=gomezabajo&show_icons=true)
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=gomezabajo&show_icons=true&theme=highcontrast)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gomezabajo&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gomezabajo&theme=highcontrast)
 
 <img src="https://komarev.com/ghpvc/?username=gomezabajo"/>
 
