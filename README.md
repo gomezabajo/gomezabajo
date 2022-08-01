@@ -6,8 +6,6 @@ To keep improving his skills as an ICT professional, in 2015 he joined the <a hr
 
 Since 2019 he holds a position as an assistant professor in the Computer Science Department of the Universidad Autónoma de Madrid. During this period, he has been teaching courses on "Compilers" (120h.) and "Automata Theory" (30h.) of the degree in Computer Science. He has directed two final projects of the degree in Computer Science, both with a "Notable" as the final mark.
 
-
-<p style="margin-top: 20px" align="center">
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stars][stars-shield]][stars-url]
@@ -18,6 +16,7 @@ Since 2019 he holds a position as an assistant professor in the Computer Science
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gomezabajo&theme=highcontrast)
 
+<p style="margin-top: 20px" align="center">
 <img src="http://views.whatilearened.today/views/github/gomezabajo/views.svg"/>
   <a href="https://github.com/gomezabajo/"><img src="https://img.shields.io/github/followers/gomezabajo?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
 </p>
