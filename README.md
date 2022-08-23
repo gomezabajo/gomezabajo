@@ -16,6 +16,22 @@ Since 2019 he holds a position as an assistant professor in the Computer Science
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gomezabajo&theme=highcontrast)
 
+[![Consulting](https://img.shields.io/badge/Consulting-Click%20here-brightgreen)](#consulting)
+
+[![Build Status](https://github.com/gomezabajo/gomezabajo/actions/workflows/build.yml/badge.svg)](https://github.com/gomezabajo/gomezabajo/actions/workflows/build.yml)
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/9aaa4b031c1d4143bdd39c4eedf49562)](https://www.codacy.com/gh/gomezabajo/gomezabajo/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=gomezabajo/gomezabajo&amp;utm_campaign=Badge_Grade)
+
+[![Codacy Code Coverage](https://app.codacy.com/project/badge/Coverage/9aaa4b031c1d4143bdd39c4eedf49562)](https://www.codacy.com/gh/manoelcampos/gomezabajo/dashboard?utm_source=github.com&utm_medium=referral&utm_content=manoelcampos/gomezabajo&utm_campaign=Badge_Coverage)
+
+[![Maven Central](https://img.shields.io/maven-central/v/org.gomezabajo/gomezabajo.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:%22org.gomezabajo%22%20AND%20a:%22gomezabajo%22)
+
+[![Documentation Status](https://readthedocs.org/projects/gomezabajo/badge/?version=latest)](http://gomezabajo.rtfd.io/en/latest/?badge=latest)
+
+[![GPL licensed](https://img.shields.io/badge/license-EPL-brown.svg)](http://www.gnu.org/licenses/epl-3.0)
+
+[![GitHub Repo stars](https://img.shields.io/github/stars/gomezabajo/gomezabajo?label=Contribute.%20Star%20it.)](https://github.com/gomezabajo/gomezabajo)
+
 <p style="margin-top: 20px" align="center">
   <a href="https://github.com/gomezabajo/"><img src="https://komarev.com/ghpvc/?username=gomezabajo"/></a>
   <a href="https://github.com/gomezabajo?tab=followers"><img src="https://img.shields.io/github/followers/gomezabajo?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
