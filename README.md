@@ -224,7 +224,7 @@ Name | Level | Institution | Year |
 
 &#35; | Title | Duration | Date | Location |
 --- | --- | --- | --- | --- |
-48 | [¿Cómo evaluar un proyecto de innovación docente? Una visión global](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Evaluacion_proyectos_innovacion_docente_UNED) | 6h. | July 2022 | UNED Abierta | 
+48 | [¿Cómo evaluar un proyecto de innovación docente? Una visión global](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Evaluacion_proyectos_innovacion_docente_UNED.pdf) | 6h. | July 2022 | UNED Abierta | 
 47 | [Los Templarios](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Los_Templarios_UNED_PUB.pdf) | 20h. | July 2022 | | 
 46 | [Aplicación del estándar europeo de accesibilidad TIC](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Estandar_Europeo_Accesibilidad_TIC_UNED.pdf) | 15h. | June 2022 | UNED Abierta | 
 45 | [Invertir con criterios sociales](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Criterios_sociales_UNED.pdf) | 25h. | June 2022 | UNED Abierta | 
