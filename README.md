@@ -12,15 +12,14 @@ Since 2019 he holds a position as an assistant professor in the Computer Science
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=gomezabajo&show_icons=true&theme=highcontrast)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gomezabajo&theme=highcontrast)
+
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/9aaa4b031c1d4143bdd39c4eedf49562)](https://www.codacy.com/gh/gomezabajo/gomezabajo/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=gomezabajo/gomezabajo&amp;utm_campaign=Badge_Grade)
 [![Codacy Code Coverage](https://app.codacy.com/project/badge/Coverage/9aaa4b031c1d4143bdd39c4eedf49562)](https://www.codacy.com/gh/gomezabajo/gomezabajo/dashboard?utm_source=github.com&utm_medium=referral&utm_content=gomezabajo/gomezabajo&utm_campaign=Badge_Coverage)
 [![GPL licensed](https://img.shields.io/badge/license-EPL-brown.svg)](http://www.gnu.org/licenses/epl-3.0)
 [![GitHub Repo stars](https://img.shields.io/github/stars/gomezabajo/gomezabajo?label=Repo%20Stars)](https://github.com/gomezabajo/gomezabajo)
-
-<p style="margin-top: 20px" align="center">
-  <a href="https://github.com/gomezabajo/"><img src="https://komarev.com/ghpvc/?username=gomezabajo"/></a>
-  <a href="https://github.com/gomezabajo?tab=followers"><img src="https://img.shields.io/github/followers/gomezabajo?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
-</p>
 
 ## Publications
 
@@ -501,6 +500,12 @@ Name | Level | Institution | Year |
 2 | [Negociación y resolución de conflictos](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Negociacion_resolucion_conflictos.pdf) | 18h. | October 2021 | Miríada X |
 1 | [Visión cristiana de la persona humana](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Vision_cristiana_persona_humana.pdf) | 18h. | October 2021 | Miríada X |
 &#35; | Total | 96h. | | |
+
+<p style="margin-top: 20px" align="center">
+  <a href="https://github.com/gomezabajo/"><img src="https://komarev.com/ghpvc/?username=gomezabajo"/></a>
+  <a href="https://github.com/gomezabajo?tab=followers"><img src="https://img.shields.io/github/followers/gomezabajo?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
+</p>
+
 
 
 [contributors-shield]: https://img.shields.io/github/contributors/gomezabajo/gomezabajo?style=for-the-badge
