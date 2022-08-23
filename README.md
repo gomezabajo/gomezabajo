@@ -18,8 +18,6 @@ Since 2019 he holds a position as an assistant professor in the Computer Science
 
 [![Consulting](https://img.shields.io/badge/Consulting-Click%20here-brightgreen)](#consulting)
 
-[![Build Status](https://github.com/gomezabajo/gomezabajo/actions/workflows/build.yml/badge.svg)](https://github.com/gomezabajo/gomezabajo/actions/workflows/build.yml)
-
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/9aaa4b031c1d4143bdd39c4eedf49562)](https://www.codacy.com/gh/gomezabajo/gomezabajo/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=gomezabajo/gomezabajo&amp;utm_campaign=Badge_Grade)
 
 [![Codacy Code Coverage](https://app.codacy.com/project/badge/Coverage/9aaa4b031c1d4143bdd39c4eedf49562)](https://www.codacy.com/gh/manoelcampos/gomezabajo/dashboard?utm_source=github.com&utm_medium=referral&utm_content=manoelcampos/gomezabajo&utm_campaign=Badge_Coverage)
