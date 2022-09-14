@@ -57,6 +57,7 @@ Name | Year |
 --- | --- |
 [PhD in Computer Science and Engineering](https://github.com/gomezabajo/academy/blob/main/diplomas/2020_PhD_Computer_Science_and_Engineering.pdf) | 2020 |
 [Honorary Diploma for defending the PhD during the COVID-19 Pandemic](https://github.com/gomezabajo/academy/blob/main/diplomas/2020_PhD_Computer_Science_and_Engineering_Honorary_COVID-19_Diploma.pdf) | 2020 |
+[PhD in MDSE award. ISDM track at JISBD'22](https://github.com/gomezabajo/academy/blob/main/diplomas/2022_ISDM_JISBD_PhD_Thesis_Award.pdf) | 2022 |
 [PhD supporting document](https://github.com/gomezabajo/academy/blob/main/diplomas/2020_PhD_Computer_Science_and_Engineering_payment_PUB.pdf) | 2020 |
 [PhD certificate](https://github.com/gomezabajo/academy/blob/main/diplomas/2020_PhD_Computer_Science_and_Engineering_certificate_PUB.pdf) | 2020 |
 [PhD cum laude notification](https://github.com/gomezabajo/academy/blob/main/diplomas/2020_PhD_Computer_Science_and_Engineering_cum_laude.pdf) | 2020 |
