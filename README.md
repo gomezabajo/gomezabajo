@@ -27,7 +27,8 @@ This page contains links to files in Postscript (ps) or Portable Document Format
 
 &#35; | Name | Authors | Conference/Journal/Event | Location | Award | Year |
 --- | --- | --- | --- | --- | --- | --- | 
-23 | [Analyzing the reliability of simulated distributed systems using Metamorphic Testing](https://www.miso.es/pubs/MET_2022.pdf) | Alberto Núñez, Pablo C. Cañizares, Pablo Gómez-Abajo, Esther Guerra, Juan de Lara | International workshop on Metamorphic Testing (MET at ICSE) | Pittsburgh. Virtual | -- | 2022
+24 | [Automatic test amplification for executable models](https://dl.acm.org/doi/10.1145/3550355.3552451) | Faezeh Khorram, Erwan Bousse, Jean-Marie Mottu, Gerson Sunyé, Pablo Gómez-Abajo, Pablo C. Cañizares, Esther Guerra, Juan de Lara | ACM/IEEE 25th International Conference on Model Driven Engineering Languages and Systems (MoDELS) | Montreal | -- | 2022
+23 | [Analyzing the reliability of simulated distributed systems using Metamorphic Testing](https://ieeexplore.ieee.org/document/9826123) | Alberto Núñez, Pablo C. Cañizares, Pablo Gómez-Abajo, Esther Guerra, Juan de Lara | International workshop on Metamorphic Testing (MET at ICSE) | Pittsburgh. Virtual | -- | 2022
 22 | [New ideas: Automated engineering of metamorphic testing environments for domain-specific languages](https://dl.acm.org/doi/10.1145/3486608.3486904) | Pablo C. Cañizares, Pablo Gómez-Abajo, Alberto Núñez, Esther Guerra, Juan de Lara | ACM SIGPLAN International Conference on Software Language Engineering (SLE) | Chicago. Virtual | Best new ideas/vision paper award at SLE'21 | 2021
 21 | [Wodel-Edu: An MDE solution for the generation and evaluation of diagram-based exercises](https://ieeexplore.ieee.org/abstract/document/9643676) | Pablo Gómez-Abajo, Andrés Rico-Fernández, Esther Guerra, Juan de Lara | ACM/IEEE 24th International Conference on Model Driven Engineering Languages and Systems (MoDELS) | Tokyo. Virtual | Best tool demo paper award at MoDELS'21 | 2021
 20 | [Wodel-Test: A model-based framework for language-independent mutation testing](https://link.springer.com/article/10.1007/s10270-020-00827-0) | Pablo Gómez-Abajo, Esther Guerra, Juan de Lara, Mercedes G. Merayo | ACM/IEEE 24th International Conference on Model Driven Engineering Languages and Systems (MoDELS) | Tokyo. Virtual | Journal 1st | 2021
@@ -114,6 +115,7 @@ Name | Level | Institution | Year |
 
 &#35; | Title | Duration | Date | Location |
 --- | --- | --- | --- | --- |
+61 | [Por cinco razones: Respuestas ante el suicidio](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Por_cinco_razones.pdf) | 20h. | September 2022 | edX |
 60 | [Lectura de imágenes históricas](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Imagenes_historicas.pdf) | 75h. | August 2022 | edX |
 59 | [Claves para leer imágenes](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Claves_imagenes.pdf) | 25h. | August 2022 | edX |
 58 | [Taller: Cómo comunicar con asertividad](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Asertividad_PUB.pdf) | 2h. | March 2022 | Cantoblanco |
@@ -174,7 +176,7 @@ Name | Level | Institution | Year |
 3 | [Seminario "El Sonido Posible"](https://github.com/gomezabajo/courses/blob/main/pdf/2004_El_sonido_posible.pdf) | 15h. | June 2004 | Colegio Mayor Luis Vives |
 2 | [Curso de Cine y Pensamiento Contemporáneo "Identidad y fragilidad"](https://github.com/gomezabajo/courses/blob/main/pdf/2004_Cine_y_pensamiento_contemporaneo_Identidad_y_Fragilidad.pdf) | 20h. | May 2004 | Colegio Mayor Luis Vives |
 1 | [Linux, un entorno abierto](https://github.com/gomezabajo/courses/blob/main/pdf/2002_Linux_un_entorno_abierto.pdf) | 32h. | July 2002 | Residencia La Cristalera |
-&#35; | Total | 1298h. | | |
+&#35; | Total | 1318h. | | |
 
 ### Instituto de Empleo, Servicio Público de Empleo Estatal
 
@@ -225,6 +227,7 @@ Name | Level | Institution | Year |
 
 &#35; | Title | Duration | Date | Location |
 --- | --- | --- | --- | --- |
+49 | [La educación de las mujeres en España (de la Hispania romana a la Ilustración)](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Educacion_de_las_mujeres_en_Espanna_UNED.pdf) | 25h. | October 2022 | UNED Abierta |
 48 | [¿Cómo evaluar un proyecto de innovación docente? Una visión global](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Evaluacion_proyectos_innovacion_docente_UNED.pdf) | 6h. | July 2022 | UNED Abierta | 
 47 | [Los Templarios](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Los_Templarios_UNED_PUB.pdf) | 20h. | July 2022 | | 
 46 | [Aplicación del estándar europeo de accesibilidad TIC](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Estandar_Europeo_Accesibilidad_TIC_UNED.pdf) | 15h. | June 2022 | UNED Abierta | 
@@ -273,7 +276,7 @@ Name | Level | Institution | Year |
 3 | [Descubre la UNED](https://github.com/gomezabajo/courses/blob/main/pdf/2018_0_Descubre_la_UNED.pdf) | 25h. | February 2018 | UNED Abierta |
 2 | [Proyecto ECO: How to succeed in the English B1 Level Exam - 2ed](https://github.com/gomezabajo/courses/blob/main/pdf/2016_Proyecto_ECO_How_to_succeed_in_the_English_B1_Level_Exam-2ed_PUB.pdf) | 125h. | April 2016 | |
 1 | [Proyecto ECO: sMOOC Paso a Paso](https://github.com/gomezabajo/courses/blob/main/pdf/2015_Proyecto_ECO_sMOOC_Paso_a_Paso_PUB.pdf) | 75h. | April 2015 | |
-&#35; | Total | 1080,5h. | | |
+&#35; | Total | 1105,5h. | | |
 
 ### Universidad de la Laguna
 
@@ -346,6 +349,10 @@ Name | Level | Institution | Year |
 
 &#35; | Title | Duration | Date | Location |
 --- | --- | --- | --- | --- |
+14 | [Abnormal psychology](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Abnormal_psychology.pdf) | 39h. | October 2022 | Coursera |
+13 | [Creating behavioral change](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Abnormal_psychology_III.pdf) | 10h. | October 2022 | Coursera |
+12 | [History of mental illness](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Abnormal_psychology_II.pdf) | 15h. | September 2022 | Coursera |
+11 | [Introduction to abnormal psychology](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Abnormal_psychology_I.pdf) | 14h. | September 2022 | Coursera |
 10 | [How to change the world](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Change_the_World.pdf) | 26h. | August 2022 | Coursera |
 9 | [Creative Writing: The Craft of Setting and Description](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Creative_Writing_The_Craft_of_Setting_and_Description.pdf) | 12h. | April 2022 | Coursera |
 8 | [The Ancient Greeks](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Ancient_Greeks.pdf) | 20h. | January 2022 | Coursera |
@@ -356,7 +363,7 @@ Name | Level | Institution | Year |
 3 | [Schizophrenia](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Schizophrenia.pdf) | 6h. | August 2020 | Coursera |
 2 | [Creative Writing: The Craft of Plot](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Creative_Writing_The_Craft_of_Plot.pdf) | 8h. | March 2020 | Coursera |
 1 | [Social Psychology](https://github.com/gomezabajo/courses/blob/main/pdf/2018_Social_Psychology.pdf) | 39h. | November 2018 | Coursera |
-&#35; | Total | 137h. | | |
+&#35; | Total | 176h. | | |
 
 ### Universidad del País Vasco
 
@@ -501,6 +508,12 @@ Name | Level | Institution | Year |
 2 | [Negociación y resolución de conflictos](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Negociacion_resolucion_conflictos.pdf) | 18h. | October 2021 | Miríada X |
 1 | [Visión cristiana de la persona humana](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Vision_cristiana_persona_humana.pdf) | 18h. | October 2021 | Miríada X |
 &#35; | Total | 96h. | | |
+
+### Lund University
+
+&#35; | Title | Duration | Date | Location |
+--- | --- | --- | --- | --- |
+1 | [Artificial intelligence: Ethics & societal challenges](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Artificial_intelligence_Ethics_challenges.pdf) | 13h. | September 2022 | Coursera |
 
 <p style="margin-top: 20px" align="center">
   <a href="https://github.com/gomezabajo/"><img src="https://komarev.com/ghpvc/?username=gomezabajo"/></a>
