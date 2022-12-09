@@ -291,7 +291,7 @@ Name | Level | Institution | Year |
 
 &#35; | Title | Duration | Date | Location |
 --- | --- | --- | --- | --- |
-1 [DSM-TP International Summer School 2016 on Domain-Specific Modeling](https://github.com/gomezabajo/courses/blob/main/pdf/2016_DSM-TP_Universite_de_Geneve.pdf) | 50h. | August 2016 | Genève |
+1 | [DSM-TP International Summer School 2016 on Domain-Specific Modeling](https://github.com/gomezabajo/courses/blob/main/pdf/2016_DSM-TP_Universite_de_Geneve.pdf) | 50h. | August 2016 | Genève |
 
 ### The University of Edinburgh
 
