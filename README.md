@@ -227,6 +227,9 @@ Name | Level | Institution | Year |
 
 &#35; | Title | Duration | Date | Location |
 --- | --- | --- | --- | --- |
+52 | [¿De qué hablamos cuando hablamos de literatura?](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Literatura_UNED.pdf) | 25h. | December 2022 | UNED Abierta |
+51 | [Cuando la literatura habla de sí misma. Las revoluciones textuales](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Revoluciones_textuales_UNED.pdf) | 25h. | November 2022 | UNED Abierta |
+50 | [Gamifica tu aula](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Gamificacion_UNED.pdf) | 25h. | November 2022 | UNED Abierta |
 49 | [La educación de las mujeres en España (de la Hispania romana a la Ilustración)](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Educacion_de_las_mujeres_en_Espanna_UNED.pdf) | 25h. | October 2022 | UNED Abierta |
 48 | [¿Cómo evaluar un proyecto de innovación docente? Una visión global](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Evaluacion_proyectos_innovacion_docente_UNED.pdf) | 6h. | July 2022 | UNED Abierta | 
 47 | [Los Templarios](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Los_Templarios_UNED_PUB.pdf) | 20h. | July 2022 | | 
@@ -514,6 +517,13 @@ Name | Level | Institution | Year |
 &#35; | Title | Duration | Date | Location |
 --- | --- | --- | --- | --- |
 1 | [Artificial intelligence: Ethics & societal challenges](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Artificial_intelligence_Ethics_challenges.pdf) | 13h. | September 2022 | Coursera |
+
+### Pennsylvania University
+
+&#35; | Title | Duration | Date | Location |
+--- | --- | --- | --- | --- |
+1 | [Ancient Philosophy: Plato & his predecessors](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Ancient_Philosophy_I.pdf) | 13h. | December 2022 | Coursera |
+
 
 <p style="margin-top: 20px" align="center">
   <a href="https://github.com/gomezabajo/"><img src="https://komarev.com/ghpvc/?username=gomezabajo"/></a>
