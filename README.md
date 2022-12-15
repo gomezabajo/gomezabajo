@@ -88,8 +88,10 @@ Name | Year |
 Name | Level | Institution | Year |
 --- | --- | --- | --- |
 [Proficiency English](https://github.com/gomezabajo/academy/blob/main/diplomas/2020_Certificado_EOI_Ingles_C2_oficial_PUB.pdf) | C2 | E.O.I. Madrid | 2020 |
+[Proficiency English](https://github.com/gomezabajo/academy/blob/main/diplomas/2022_Certificado_UNED_Ingles_C2_PUB.pdf) | C2 | UNED | 2022 |
+[Proficiency English](https://github.com/gomezabajo/academy/blob/main/diplomas/2022_Certificado_UNED_Ingles_C2_oficial_PUB.pdf) | C2 | UNED | 2022 |
 [Proficiency English](https://github.com/gomezabajo/academy/blob/main/diplomas/2021_Certificado_UNED_Ingles_C2_PUB.pdf) | C2 | UNED | 2021 |
-[Proficiency English](https://github.com/gomezabajo/academy/blob/main/diplomas/2021_Certificado_UNED_Portugues_B1_oficial_PUB.pdf) | C2 | UNED | 2021 |
+[Proficiency English](https://github.com/gomezabajo/academy/blob/main/diplomas/2021_Certificado_UNED_Ingles_C2_oficial_PUB.pdf) | C2 | UNED | 2021 |
 [Proficiency English](https://github.com/gomezabajo/academy/blob/main/diplomas/2020_Certificado_UNED_Ingles_C2_PUB.pdf) | C2 | UNED | 2020 |
 [Proficiency English](https://github.com/gomezabajo/academy/blob/main/diplomas/2020_Certificado_UNED_Ingles_C2_oficial_PUB.pdf) | C2 | UNED | 2020 |
 [Advanced English](https://github.com/gomezabajo/academy/blob/main/diplomas/2019_Certificado_EOI_Ingles_C1_oficial_PUB.pdf) | C1 | E.O.I. Madrid | 2019 |
