@@ -494,13 +494,14 @@ Name | Level | Institution | Year |
 
 &#35; | Title | Duration | Date | Location |
 --- | --- | --- | --- | --- |
+7 | [Writing in the sciences](https://github.com/gomezabajo/courses/blob/main/pdf/2023_Writing_sciences.pdf) | 30h. | January 2023 | Coursera |
 6 | [COVID-19 training for healthcare workers](https://github.com/gomezabajo/courses/blob/main/pdf/2021_COVID_Healthcare.pdf) | 8h. | December 2021 | Coursera |
 5 | [Compilers](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Compilers.pdf) | 70h. | December 2021 | edX |
 4 | [Game Theory](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Game_Theory.pdf) | 18h. | November 2021 | Coursera |
 3 | [Automata Theory](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Automata_theory.pdf) | 70h. | November 2021 | edX |
 2 |[International women's health and human rights](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Womens_Health_and_Human_rights.pdf) | 58h. | October 2021 | Coursera |
 1 | [Love as a force for social justice](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Love_social_justice.pdf) | 28h. | September 2021 | Coursera |
-&#35; | Total | 252h. | | |
+&#35; | Total | 282h. | | |
 
 ### Pontificia Universidad Católica de Valparaíso
 
@@ -525,6 +526,18 @@ Name | Level | Institution | Year |
 &#35; | Title | Duration | Date | Location |
 --- | --- | --- | --- | --- |
 1 | [Ancient Philosophy: Plato & his predecessors](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Ancient_Philosophy_I.pdf) | 13h. | December 2022 | Coursera |
+
+### Infosec Institute
+
+&#35; | Title | Duration | Date | Location |
+--- | --- | --- | --- | --- |
+1 | [Operating systems foundations](https://github.com/gomezabajo/courses/blob/main/pdf/2023_Operating_systems_foundations.pdf) | 3h. | January 2023 | Coursera |
+
+### IBM
+
+&#35; | Title | Duration | Date | Location |
+--- | --- | --- | --- | --- |
+1 | [Introduction to hardware and operating systems](https://github.com/gomezabajo/courses/blob/main/pdf/2023_Hardware_operating_systems.pdf) | 17h. | January 2023 | Coursera |
 
 
 <p style="margin-top: 20px" align="center">
