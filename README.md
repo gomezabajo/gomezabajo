@@ -117,6 +117,7 @@ Name | Level | Institution | Year |
 
 &#35; | Title | Duration | Date | Location |
 --- | --- | --- | --- | --- |
+62 | [Retos actuales para trabajar hacia la inclusión](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Retos_inclusion_PUB.pdf) | 1h. | December 2022 | Cantoblanco |
 61 | [Por cinco razones: Respuestas ante el suicidio](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Por_cinco_razones.pdf) | 20h. | September 2022 | edX |
 60 | [Lectura de imágenes históricas](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Imagenes_historicas.pdf) | 75h. | August 2022 | edX |
 59 | [Claves para leer imágenes](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Claves_imagenes.pdf) | 25h. | August 2022 | edX |
@@ -178,7 +179,7 @@ Name | Level | Institution | Year |
 3 | [Seminario "El Sonido Posible"](https://github.com/gomezabajo/courses/blob/main/pdf/2004_El_sonido_posible.pdf) | 15h. | June 2004 | Colegio Mayor Luis Vives |
 2 | [Curso de Cine y Pensamiento Contemporáneo "Identidad y fragilidad"](https://github.com/gomezabajo/courses/blob/main/pdf/2004_Cine_y_pensamiento_contemporaneo_Identidad_y_Fragilidad.pdf) | 20h. | May 2004 | Colegio Mayor Luis Vives |
 1 | [Linux, un entorno abierto](https://github.com/gomezabajo/courses/blob/main/pdf/2002_Linux_un_entorno_abierto.pdf) | 32h. | July 2002 | Residencia La Cristalera |
-&#35; | Total | 1318h. | | |
+&#35; | Total | 1319h. | | |
 
 ### Instituto de Empleo, Servicio Público de Empleo Estatal
 
