@@ -231,7 +231,7 @@ Name | Level | Institution | Year |
 
 &#35; | Title | Duration | Date | Location |
 --- | --- | --- | --- | --- |
-53 | [Ética y antropología](https://github.com/gomezabajo/courses/blob/main/pdf/2023_Etica_y_antropologia_UNED.pdf) | 25h. | March 2022 | UNED Abierta |
+53 | [Ética y antropología](https://github.com/gomezabajo/courses/blob/main/pdf/2023_Etica_y_antropologia_UNED.pdf) | 25h. | March 2023 | UNED Abierta |
 52 | [¿De qué hablamos cuando hablamos de literatura?](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Literatura_UNED.pdf) | 25h. | December 2022 | UNED Abierta |
 51 | [Cuando la literatura habla de sí misma. Las revoluciones textuales](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Revoluciones_textuales_UNED.pdf) | 25h. | November 2022 | UNED Abierta |
 50 | [Gamifica tu aula](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Gamificacion_UNED.pdf) | 25h. | November 2022 | UNED Abierta |
@@ -540,7 +540,7 @@ Name | Level | Institution | Year |
 
 &#35; | Title | Duration | Date | Location |
 --- | --- | --- | --- | --- |
-2 | [Introduction to technical support](https://github.com/gomezabajo/courses/blob/main/pdf/2023_Techinical_support.pdf) | 12h. | February 2023 | Coursera |
+2 | [Introduction to technical support](https://github.com/gomezabajo/courses/blob/main/pdf/2023_Technical_support.pdf) | 12h. | February 2023 | Coursera |
 1 | [Introduction to hardware and operating systems](https://github.com/gomezabajo/courses/blob/main/pdf/2023_Hardware_operating_systems.pdf) | 17h. | January 2023 | Coursera |
 &#35; | Total | 29h. | | |
 
