@@ -231,6 +231,7 @@ Name | Level | Institution | Year |
 
 &#35; | Title | Duration | Date | Location |
 --- | --- | --- | --- | --- |
+53 | [Ética y antropología](https://github.com/gomezabajo/courses/blob/main/pdf/2023_Etica_y_antropologia_UNED.pdf) | 25h. | March 2022 | UNED Abierta |
 52 | [¿De qué hablamos cuando hablamos de literatura?](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Literatura_UNED.pdf) | 25h. | December 2022 | UNED Abierta |
 51 | [Cuando la literatura habla de sí misma. Las revoluciones textuales](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Revoluciones_textuales_UNED.pdf) | 25h. | November 2022 | UNED Abierta |
 50 | [Gamifica tu aula](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Gamificacion_UNED.pdf) | 25h. | November 2022 | UNED Abierta |
@@ -283,7 +284,7 @@ Name | Level | Institution | Year |
 3 | [Descubre la UNED](https://github.com/gomezabajo/courses/blob/main/pdf/2018_0_Descubre_la_UNED.pdf) | 25h. | February 2018 | UNED Abierta |
 2 | [Proyecto ECO: How to succeed in the English B1 Level Exam - 2ed](https://github.com/gomezabajo/courses/blob/main/pdf/2016_Proyecto_ECO_How_to_succeed_in_the_English_B1_Level_Exam-2ed_PUB.pdf) | 125h. | April 2016 | |
 1 | [Proyecto ECO: sMOOC Paso a Paso](https://github.com/gomezabajo/courses/blob/main/pdf/2015_Proyecto_ECO_sMOOC_Paso_a_Paso_PUB.pdf) | 75h. | April 2015 | |
-&#35; | Total | 1105,5h. | | |
+&#35; | Total | 1205,5h. | | |
 
 ### Universidad de la Laguna
 
@@ -496,7 +497,7 @@ Name | Level | Institution | Year |
 
 &#35; | Title | Duration | Date | Location |
 --- | --- | --- | --- | --- |
-7 | [Writing in the sciences](https://github.com/gomezabajo/courses/blob/main/pdf/2023_Writing_sciences.pdf) | 30h. | January 2023 | Coursera |
+7 | [Writing in the sciences](https://github.com/gomezabajo/courses/blob/main/pdf/2023_Writing_sciences_honors.pdf) | 30h. | January 2023 | Coursera |
 6 | [COVID-19 training for healthcare workers](https://github.com/gomezabajo/courses/blob/main/pdf/2021_COVID_Healthcare.pdf) | 8h. | December 2021 | Coursera |
 5 | [Compilers](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Compilers.pdf) | 70h. | December 2021 | edX |
 4 | [Game Theory](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Game_Theory.pdf) | 18h. | November 2021 | Coursera |
@@ -539,7 +540,9 @@ Name | Level | Institution | Year |
 
 &#35; | Title | Duration | Date | Location |
 --- | --- | --- | --- | --- |
+2 | [Introduction to technical support](https://github.com/gomezabajo/courses/blob/main/pdf/2023_Techinical_support.pdf) | 12h. | February 2023 | Coursera |
 1 | [Introduction to hardware and operating systems](https://github.com/gomezabajo/courses/blob/main/pdf/2023_Hardware_operating_systems.pdf) | 17h. | January 2023 | Coursera |
+&#35; | Total | 29h. | | |
 
 
 <p style="margin-top: 20px" align="center">
