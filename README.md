@@ -541,9 +541,15 @@ Name | Level | Institution | Year |
 
 &#35; | Title | Duration | Date | Location |
 --- | --- | --- | --- | --- |
+8 | [IBM IT support professional certificate](https://github.com/gomezabajo/courses/blob/main/pdf/2023_IBM_IT_support_professional_certificate.pdf) | 120h. | July 2023 | Coursera |
+7 | [Technical support case studies and capstone](https://github.com/gomezabajo/courses/blob/main/pdf/2023_IBM_IT_support_case_studies.pdf) | 7h. | July 2023 | Coursera |
+6 | [Introduction to cloud computing](https://github.com/gomezabajo/courses/blob/main/pdf/2023_Cloud_computing.pdf) | 12h. | April 2023 | Coursera |
+5 | [Introduction to cybersecurity essentials](https://github.com/gomezabajo/courses/blob/main/pdf/2023_Cybersecurity_essentials.pdf) | 14h. | April 2023 | Coursera |
+4 | [Introduction to networking and storage](https://github.com/gomezabajo/courses/blob/main/pdf/2023_Networking_storage.pdf) | 12h. | April 2023 | Coursera |
+3 | [Introduction to software, programming and databases](https://github.com/gomezabajo/courses/blob/main/pdf/2023_Software_programming_databases.pdf) | 17h. | March 2023 | Coursera |
 2 | [Introduction to technical support](https://github.com/gomezabajo/courses/blob/main/pdf/2023_Technical_support.pdf) | 12h. | February 2023 | Coursera |
 1 | [Introduction to hardware and operating systems](https://github.com/gomezabajo/courses/blob/main/pdf/2023_Hardware_operating_systems.pdf) | 17h. | January 2023 | Coursera |
-&#35; | Total | 29h. | | |
+&#35; | Total | 120h. | | |
 
 
 <p style="margin-top: 20px" align="center">
