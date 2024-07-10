@@ -27,6 +27,7 @@ This page contains links to files in Postscript (ps) or Portable Document Format
 
 &#35; | Name | Authors | Conference/Journal/Event | Location | Award | Year |
 --- | --- | --- | --- | --- | --- | --- | 
+30 | [Mutation testing for task-oriented chatbots](https://dl.acm.org/doi/10.1145/3661167.3661220) | Pablo Gómez-Abajo, Sara Pérez-Soler, Pablo C. Cañizares, Esther Guerra, Juan de Lara | ACM 28th International Conference on Evaluation and Assessment in Software Engineering (EASE 2024) | Salerno | -- | 2024
 29 | [Gotten: A model-driven solution to engineer domain-specific metamorphic testing environments](https://ieeexplore.ieee.org/document/10350786) | Pablo Gómez-Abajo, Pablo C. Cañizares, Alberto Núñez, Esther Guerra, Juan de Lara | ACM/IEEE 26th International Conference on Model Driven Engineering Languages and Systems (MoDELS 2023) | Västerås | -- | 2023
 28 | [Automated engineering of domain-specific metamorphic testing environments](https://biblioteca.sistedes.es/dspace.server/api/core/bitstreams/f5e11c7f-5f69-4e0f-b98a-3f6d721ba52e/content) | Pablo Gómez-Abajo, Pablo C. Cañizares, Alberto Núñez, Esther Guerra, Juan de Lara |Jornadas de Ingeniería del Software y Bases de Datos (JISBD) | Ciudad Real | Journal 1st | 2023
 27 | [Automated generation and correction of diagram-based exercises for Moodle](https://onlinelibrary.wiley.com/doi/full/10.1002/cae.22676) | Pablo Gómez-Abajo, Esther Guerra, Juan de Lara | Computer Applications in Engineering Education, (Wiley) | -- | -- | 2023
@@ -122,6 +123,7 @@ Name | Level | Institution | Year |
 
 &#35; | Title | Duration | Date | Location |
 --- | --- | --- | --- | --- |
+63 | [Microcredencial: Excel para el éxito profesional](https://github.com/gomezabajo/courses/blob/main/pdf/2024_Excel_PUB.pdf) | 1h. | July 2022 | Virtual |
 62 | [Retos actuales para trabajar hacia la inclusión](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Retos_inclusion_PUB.pdf) | 1h. | December 2022 | Cantoblanco |
 61 | [Por cinco razones: Respuestas ante el suicidio](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Por_cinco_razones.pdf) | 20h. | September 2022 | edX |
 60 | [Lectura de imágenes históricas](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Imagenes_historicas.pdf) | 75h. | August 2022 | edX |
@@ -184,7 +186,7 @@ Name | Level | Institution | Year |
 3 | [Seminario "El Sonido Posible"](https://github.com/gomezabajo/courses/blob/main/pdf/2004_El_sonido_posible.pdf) | 15h. | June 2004 | Colegio Mayor Luis Vives |
 2 | [Curso de Cine y Pensamiento Contemporáneo "Identidad y fragilidad"](https://github.com/gomezabajo/courses/blob/main/pdf/2004_Cine_y_pensamiento_contemporaneo_Identidad_y_Fragilidad.pdf) | 20h. | May 2004 | Colegio Mayor Luis Vives |
 1 | [Linux, un entorno abierto](https://github.com/gomezabajo/courses/blob/main/pdf/2002_Linux_un_entorno_abierto.pdf) | 32h. | July 2002 | Residencia La Cristalera |
-&#35; | Total | 1319h. | | |
+&#35; | Total | 1320h. | | |
 
 ### Instituto de Empleo, Servicio Público de Empleo Estatal
 
@@ -558,7 +560,9 @@ Name | Level | Institution | Year |
 
 &#35; | Title | Duration | Date | Location |
 --- | --- | --- | --- | --- |
+2 | [Design patterns](https://github.com/gomezabajo/courses/blob/main/pdf/2024_Design_patterns.pdf) | 40h. | May 2024 | Coursera |
 1 | [Object-oriented design](https://github.com/gomezabajo/courses/blob/main/pdf/2024_Object_oriented_design.pdf) | 32h. | February 2024 | Coursera |
+&#35; | Total | 72h. | | |
 
 
 <p style="margin-top: 20px" align="center">
