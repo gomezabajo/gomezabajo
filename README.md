@@ -123,7 +123,7 @@ Name | Level | Institution | Year |
 
 &#35; | Title | Duration | Date | Location |
 --- | --- | --- | --- | --- |
-63 | [Microcredencial: Excel para el éxito profesional](https://github.com/gomezabajo/courses/blob/main/pdf/2024_Excel_PUB.pdf) | 1h. | July 2022 | Virtual |
+63 | [Microcredencial: Excel para el éxito profesional](https://github.com/gomezabajo/courses/blob/main/pdf/2024_Excel_PUB.pdf) | 1h. | July 2024 | Virtual |
 62 | [Retos actuales para trabajar hacia la inclusión](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Retos_inclusion_PUB.pdf) | 1h. | December 2022 | Cantoblanco |
 61 | [Por cinco razones: Respuestas ante el suicidio](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Por_cinco_razones.pdf) | 20h. | September 2022 | edX |
 60 | [Lectura de imágenes históricas](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Imagenes_historicas.pdf) | 75h. | August 2022 | edX |
