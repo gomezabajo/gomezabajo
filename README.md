@@ -16,8 +16,7 @@ Since 2019 he holds a position as an assistant professor in the Computer Science
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gomezabajo&theme=highcontrast)
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/9aaa4b031c1d4143bdd39c4eedf49562)](https://www.codacy.com/gh/gomezabajo/gomezabajo/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=gomezabajo/gomezabajo&amp;utm_campaign=Badge_Grade)
-[![Codacy Code Coverage](https://app.codacy.com/project/badge/Coverage/9aaa4b031c1d4143bdd39c4eedf49562)](https://www.codacy.com/gh/gomezabajo/gomezabajo/dashboard?utm_source=github.com&utm_medium=referral&utm_content=gomezabajo/gomezabajo&utm_campaign=Badge_Coverage)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/79daad9d9ac54f768849b803a8114686)](https://app.codacy.com/gh/gomezabajo/gomezabajo/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 [![GPL licensed](https://img.shields.io/badge/license-EPL2.0-orange.svg)](https://www.eclipse.org/legal/epl-2.0/)
 [![GitHub Repo stars](https://img.shields.io/github/stars/gomezabajo/gomezabajo?label=Repo%20Stars)](https://github.com/gomezabajo/gomezabajo/stargazers)
 
