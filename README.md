@@ -24,7 +24,7 @@ Since 2019 he holds a position as an assistant professor in the <a href="https:/
 
 This page contains links to files in Postscript (ps) or Portable Document Format (pdf) of articles which may be covered by copyright. Copying or distributing these files may violate copyright law. In any case, don't hesitate to contact me if you need an electronic copy of some of the papers or presentations. You can also have a look at my publications from the <a href="http://dblp.uni-trier.de/pers/hc/g/G=oacute=mez=Abajo:Pablo" target="_blank">DBLP</a> server and <a href="https://scholar.google.com/citations?user=h7VMrcIAAAAJ&hl=en" target="_blank">Google Scholar</a>.
 
-&#37; | Name | Authors | Conference/Journal/Event | Location | Award | Year |
+&#35; | Name | Authors | Conference/Journal/Event | Location | Award | Year |
 --- | --- | --- | --- | --- | --- | --- |
 37 | [Wodel-Test: A model-based framework for engineering language-specific mutation testing tools](https://www.sciencedirect.com/science/article/pii/S2352711025001621) | Pablo Gómez-Abajo, Esther Guerra, Juan de Lara | SoftwareX, (Elsevier) | -- | -- | 2025 
 36 | [Reflexiones personales sobre antropología social](https://www.unedcalatayud.es/content/files/2025/05/Reflexiones-personales-sobre-antropolog--a-social.pdf) | Pablo Gómez-Abajo | Gracián. Revista de investigación universitaria. N. 1. pp: 123-133. (UNED Calatayud) | -- | -- | 2025 
