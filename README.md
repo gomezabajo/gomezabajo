@@ -132,6 +132,13 @@ Name | Level | Institution | Year |
 
 &#35; | Title | Duration | Date | Location |
 --- | --- | --- | --- | --- |
+70 | [Iniciación a Moodle 4.1](https://www.gomezabajo.es/pablo/pdf/courses/2025_Iniciacion_Moodle.pdf) | 25h. | July 2025 | Virtual |
+69 | [Humanidades y competencias en Inteligencia Artificial: habilidades, desafíos y oportunidades](https://www.gomezabajo.es/pablo/pdf/courses/2025_IA_Humanidades.pdf) | 15h. | March 2025 | Virtual |
+68 | [Accesibilidad digital y tecnologías accesibles para atender a la diversidad funcional en el aula](https://www.gomezabajo.es/pablo/pdf/courses/2025_Tecnologias_accesibles_diversidad.pdf) | 25h. | March 2025 | Cantoblanco |
+67 | [Habilidades sociales](https://www.gomezabajo.es/pablo/pdf/courses/2025_Habilidades_sociales_PUB.pdf) | 2h. | February 2025 | Cantoblanco |
+66 | [Evaluación del aprendizaje](https://www.gomezabajo.es/pablo/pdf/courses/2025_Evaluacion_aprendizaje.pdf) | 25h. | February 2025 | Cantoblanco |
+65 | [Formación para la tutorización en el nuevo modelo de Plan de Acción Tutorial: el tutor PAT especializado](https://www.gomezabajo.es/pablo/pdf/courses/2025_Tutor_PAT.pdf) | 25h. | December 2024 | Cantoblanco |
+64 | [Gamificación y aprendizaje basado en juegos: un taller práctico para crear videojuegos educativos](https://www.gomezabajo.es/pablo/pdf/courses/2025_SGAME.pdf) | 25h. | December 2024 | Cantoblanco |
 63 | [Microcredencial: Excel para el éxito profesional](https://github.com/gomezabajo/courses/blob/main/pdf/2024_Excel_PUB.pdf) | 1h. | July 2024 | Virtual |
 62 | [Retos actuales para trabajar hacia la inclusión](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Retos_inclusion_PUB.pdf) | 1h. | December 2022 | Cantoblanco |
 61 | [Por cinco razones: Respuestas ante el suicidio](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Por_cinco_razones.pdf) | 20h. | September 2022 | edX |
