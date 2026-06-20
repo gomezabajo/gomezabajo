@@ -132,6 +132,11 @@ Name | Level | Institution | Year |
 
 &#35; | Title | Duration | Date | Location |
 --- | --- | --- | --- | --- |
+75 | [Especialización en IA con enfoque en la divulgación científica](https://www.gomezabajo.es/pablo/pdf/courses/2025_IA-gen_divulgacion_cientifica.pdf) | 12h. | November 2025 | Cantoblanco |
+74 | [Potenciando la evaluación competencial mediante Inteligencia Artificial Generativa](https://www.gomezabajo.es/pablo/pdf/courses/2025_Competencias_IA-gen.pdf) | 12h. | October 2025 | Cantoblanco |
+73 | [Aplicación de la Inteligencia Artificial Generativa para la práctica docente en Educación Superior](https://www.gomezabajo.es/pablo/pdf/courses/2025_Docencia_Universidad_IA-gen.pdf) | 25h. | September 2025 | Cantoblanco |
+72 | [Iniciación a R para el análisis estadístico](https://www.gomezabajo.es/pablo/pdf/courses/2025_Iniciacion_R.pdf) | 25h. | July 2025 | Virtual |
+71 | [Evaluación con cuestionarios en Moodle 4.1](https://www.gomezabajo.es/pablo/pdf/courses/2025_Cuestionarios_Moodle.pdf) | 25h. | July 2025 | Virtual |
 70 | [Iniciación a Moodle 4.1](https://www.gomezabajo.es/pablo/pdf/courses/2025_Iniciacion_Moodle.pdf) | 25h. | July 2025 | Virtual |
 69 | [Humanidades y competencias en Inteligencia Artificial: habilidades, desafíos y oportunidades](https://www.gomezabajo.es/pablo/pdf/courses/2025_IA_Humanidades.pdf) | 15h. | March 2025 | Virtual |
 68 | [Accesibilidad digital y tecnologías accesibles para atender a la diversidad funcional en el aula](https://www.gomezabajo.es/pablo/pdf/courses/2025_Tecnologias_accesibles_diversidad.pdf) | 25h. | March 2025 | Cantoblanco |
