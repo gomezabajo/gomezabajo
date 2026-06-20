@@ -132,6 +132,7 @@ Name | Level | Institution | Year |
 
 &#35; | Title | Duration | Date | Location |
 --- | --- | --- | --- | --- |
+79 | [El uso del debate como metodología docente](https://www.gomezabajo.es/pablo/pdf/courses/2026_Debate.pdf) | 25h. | January 2026 | Cantoblanco |
 78 | [Especialización en IA con enfoque en la divulgación científica](https://www.gomezabajo.es/pablo/pdf/courses/2025_IA-gen_divulgacion_cientifica.pdf) | 12h. | November 2025 | Cantoblanco |
 77 | [Autorregulación, autoevaluación y aprendizaje universitario](https://www.gomezabajo.es/pablo/pdf/courses/2025_Autorregulacion.pdf) | 25h. | November 2025 | Cantoblanco |
 76 | [Potenciando la evaluación competencial mediante Inteligencia Artificial Generativa](https://www.gomezabajo.es/pablo/pdf/courses/2025_Competencias_IA-gen.pdf) | 12h. | October 2025 | Cantoblanco |
