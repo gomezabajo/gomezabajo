@@ -1,28 +1,48 @@
 # Pablo Gómez-Abajo
 
-From 2008 to 2015 <a href="https://www.gomezabajo.es">Pablo Gómez-Abajo</a> was working as an IT Manager at <a href="https://imasp.net">Ingeniería y Prevención de Riesgos, S.L.</a> During this time, he acquired high-level skills in developing solutions for professionals from other technological areas, such as civil engineers, mechanical engineers, and so on. This provides him with a great ability to understand what their needs are and build the easiest solution for them.
+<p align="center"><em>Computer scientist · Software engineer · Associate Professor, Universidad Autónoma de Madrid</em></p>
 
-To keep improving his skills as an ICT professional, in 2015 he joined the <a href="https://www.miso.es">Modelling and Software Engineering research group</a> led by <a href="http://arantxa.ii.uam.es/~jlara/">Juan de Lara</a> and <a href="http://arantxa.ii.uam.es/~eguerra/">Esther Guerra</a> within the <a href="https://www.uam.es/eps/inicio">Computer Science Department</a> of the <a href="https://www.uam.es">Universidad Autónoma de Madrid</a>. His research works consist mainly in the design and development of domain-specific languages and generic tools for domain experts. In 2016 he defended his final master's thesis <a href="https://repositorio.uam.es/handle/10486/676054" itemprop="url" title="A framework for the automated generation of exercises via model mutation">"A framework for the automated generation of exercises via model mutation"</a>, directed by <a href="http://arantxa.ii.uam.es/~eguerra/">Esther Guerra</a> and <a href="http://arantxa.ii.uam.es/~jlara/">Juan de Lara</a>, with a special mention. In 2020 he defended his <a href="https://uam.es/EscuelaDoctorado/(es_ES)-Programa-Doctorado_Informatica_Teleco/1446860170757.htm">PhD in Computer Science and Engineering</a> with the title <a href="https://repositorio.uam.es/handle/10486/693951" itemprop="url" title="A domain-specific language for model mutation">"A domain-specific language for model mutation"</a>, directed by <a href="http://arantxa.ii.uam.es/~eguerra/">Esther Guerra</a> and <a href="https://antares.sip.ucm.es/mercedes/">Mercedes García Merayo</a>, as excellent cum laude. He has been the author of 9 journal publications, co-author of 1 book chapter, and has published in 12 international conferences.
-
-Since 2019 he holds a position as an assistant professor in the <a href="https://www.uam.es/eps/inicio">Computer Science Department</a> of the <a href="https://www.uam.es/uam/inicio">Universidad Autónoma de Madrid</a>. During this period, he has been teaching courses on "Compilers" (120h.) "Automata Theory" (30h.), "Software Analysis and Design" (110h.), "Operating Systems" (45h.), "Software Testing" (60h.), and "Software Engineering" (30h.) of the <a href="https://www.uam.es/uam/informatica">BSc in Computer Science</a>, "Numeric Optimization" (35h.) of the <a href="https://www.uam.es/uam/ingenieria-datos">BSc in Science and Data Engineering</a>, and "Advanced Networks and the Internet" (40h.) and "Machine Learning" (12h.) of the <a href="https://www.uam.es/uam/master-universitario-ingenieria-informatica">MSc in Computer Science</a>, scoring an overall of more than 500h of teaching time. He has directed 10 BSc. in Computer Science Thesis.
-
+<p align="center">
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stars][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
+[![Website][website-shield]][website-url]
+[![ORCID][orcid-shield]][orcid-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![X][x-shield]][x-url]
+[![Google Scholar][scholar-shield]][scholar-url]
+[![DBLP][dblp-shield]][dblp-url]
+</p>
 
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=gomezabajo&show_icons=true&theme=highcontrast)
+From 2008 to 2015 [Pablo Gómez-Abajo](https://www.gomezabajo.es) was working as an IT Manager at [Ingeniería y Prevención de Riesgos, S.L.](https://imasp.net) During this time, he acquired high-level skills in developing solutions for professionals from other technological areas, such as civil engineers, mechanical engineers, and so on. This provides him with a great ability to understand what their needs are and build the easiest solution for them.
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gomezabajo&theme=highcontrast)
+To keep improving his skills as an ICT professional, in 2015 he joined the [Modelling and Software Engineering research group](https://www.miso.es) led by [Juan de Lara](http://arantxa.ii.uam.es/~jlara/) and [Esther Guerra](http://arantxa.ii.uam.es/~eguerra/) within the [Computer Science Department](https://www.uam.es/eps/inicio) of the [Universidad Autónoma de Madrid](https://www.uam.es). His research works consist mainly in the design and development of domain-specific languages and generic tools for domain experts. In 2016 he defended his final master's thesis ["A framework for the automated generation of exercises via model mutation"](https://repositorio.uam.es/handle/10486/676054), directed by [Esther Guerra](http://arantxa.ii.uam.es/~eguerra/) and [Juan de Lara](http://arantxa.ii.uam.es/~jlara/), with a special mention. In 2020 he defended his [PhD in Computer Science and Engineering](https://uam.es/EscuelaDoctorado/(es_ES)-Programa-Doctorado_Informatica_Teleco/1446860170757.htm) with the title ["A domain-specific language for model mutation"](https://repositorio.uam.es/handle/10486/693951), directed by [Esther Guerra](http://arantxa.ii.uam.es/~eguerra/) and [Mercedes García Merayo](https://antares.sip.ucm.es/mercedes/), as excellent cum laude. He has been the author of 9 journal publications, co-author of 1 book chapter, and has published in 12 international conferences.
 
+Since 2019 he holds a position as professor in the [Computer Science Department](https://www.uam.es/eps/inicio) of the [Universidad Autónoma de Madrid](https://www.uam.es/uam/inicio). During this period, he has been teaching courses on "Compilers" (120h.), "Automata Theory" (30h.), "Software Analysis and Design" (110h.), "Operating Systems" (45h.), "Software Testing" (60h.), and "Software Engineering" (30h.) of the [BSc in Computer Science](https://www.uam.es/uam/informatica), "Numeric Optimization" (35h.) of the [BSc in Science and Data Engineering](https://www.uam.es/uam/ingenieria-datos), and "Advanced Networks and the Internet" (40h.) and "Machine Learning" (12h.) of the [MSc in Computer Science](https://www.uam.es/uam/master-universitario-ingenieria-informatica), scoring an overall of more than 500h of teaching time. He has directed 10 BSc. in Computer Science Thesis.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gomezabajo&show_icons=true&theme=highcontrast" alt="gomezabajo's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomezabajo&theme=highcontrast" alt="gomezabajo's most used languages" />
+</p>
+
+<p align="center">
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/79daad9d9ac54f768849b803a8114686)](https://app.codacy.com/gh/gomezabajo/gomezabajo/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
-[![GPL licensed](https://img.shields.io/badge/license-EPL2.0-orange.svg)](https://www.eclipse.org/legal/epl-2.0/)
+[![EPL licensed](https://img.shields.io/badge/license-EPL2.0-orange.svg)](https://www.eclipse.org/legal/epl-2.0/)
 [![GitHub Repo stars](https://img.shields.io/github/stars/gomezabajo/gomezabajo?label=Repo%20Stars)](https://github.com/gomezabajo/gomezabajo/stargazers)
+</p>
+
+## Contents
+
+- [Publications](#publications)
+- [Open-source projects](#open-source-projects)
+- [Education](#education)
+- [Languages](#languages)
+- [Attended courses & seminars](#attended-courses--seminars)
 
 ## Publications
 
-This page contains links to files in Postscript (ps) or Portable Document Format (pdf) of articles which may be covered by copyright. Copying or distributing these files may violate copyright law. In any case, don't hesitate to contact me if you need an electronic copy of some of the papers or presentations. You can also have a look at my publications from the <a href="http://dblp.uni-trier.de/pers/hc/g/G=oacute=mez=Abajo:Pablo" target="_blank">DBLP</a> server and <a href="https://scholar.google.com/citations?user=h7VMrcIAAAAJ&hl=en" target="_blank">Google Scholar</a>.
+This page contains links to files in Postscript (ps) or Portable Document Format (pdf) of articles which may be covered by copyright. Copying or distributing these files may violate copyright law. In any case, don't hesitate to contact me if you need an electronic copy of some of the papers or presentations. You can also have a look at my publications from the [DBLP](http://dblp.uni-trier.de/pers/hc/g/G=oacute=mez=Abajo:Pablo) server and [Google Scholar](https://scholar.google.com/citations?user=h7VMrcIAAAAJ&hl=en).
 
 &#35; | Name | Authors | Conference/Journal/Event | Location | Award | Year |
 --- | --- | --- | --- | --- | --- | --- |
@@ -67,7 +87,20 @@ This page contains links to files in Postscript (ps) or Portable Document Format
 2 | [A framework for the automated generation of exercises via model mutation](https://repositorio.uam.es/handle/10486/676054) | Pablo Gómez-Abajo | Final master's thesis. Master’s Program (MSc) in ICT Research and Innovation | Universidad Autónoma de Madrid |  Special mention | 2016 
 1 | [Wodel: A domain-specific language for model mutation](https://dl.acm.org/doi/10.1145/2851613.2851751) | Pablo Gómez-Abajo, Esther Guerra, Juan de Lara | Symposium on Applied Computing 2016 (SAC). pp.:1968-1973 | Pisa |  -- | 2016 
 
-## University Education
+## Open-source projects
+
+His main line of software development is **[Wodel](https://github.com/gomezabajo/Wodel)**, a domain-specific language for model mutation built on Eclipse/EMF/Xtext, together with its extensions:
+
+- **[Wodel-Edu](https://gomezabajo.github.io/Wodel/wodel-edu.html)** — automated generation and evaluation of diagram-based exercises.
+- **[Wodel-Test](https://gomezabajo.github.io/Wodel-Test)** — a model-based framework for engineering language-specific mutation testing tools.
+- **[Wodel4diac](https://github.com/gomezabajo/Wodel4diac)** — a Wodel variant compatible with Eclipse 4diac / IEC 61499.
+
+The [project homepage](https://gomezabajo.github.io/Wodel/) has tutorials, samples, and further tool downloads. The rest of his repositories are listed on his [GitHub profile](https://github.com/gomezabajo?tab=repositories).
+
+## Education
+
+<details>
+<summary><strong>University education</strong> — BSc, MSc, PhD diplomas, transcripts and defense materials</summary>
 
 Name | Year |
 --- | --- |
@@ -90,7 +123,10 @@ Name | Year |
 [Road to Santiago](https://github.com/gomezabajo/academy/blob/main/diplomas/2003_Camino_de_Santiago.pdf) | 2003 |
 [University access certification](https://github.com/gomezabajo/academy/blob/main/diplomas/2000_Certificado_PAU_PUB.pdf) | 2000 |
 
-## Secondary Education
+</details>
+
+<details>
+<summary><strong>Secondary education</strong></summary>
 
 Name | Year |
 --- | --- |
@@ -98,7 +134,12 @@ Name | Year |
 [Natural & Health Sciences](https://github.com/gomezabajo/academy/blob/main/diplomas/2000_Titulo_Bachiller_PUB.pdf) | 2000 |
 [Secondary education](https://github.com/gomezabajo/academy/blob/main/diplomas/1998_Titulo_Secundaria_PUB.pdf) | 1998 |
 
+</details>
+
 ## Languages
+
+<details>
+<summary>English (C2), Portuguese (C1), Arabic (A1) — certificates and transcripts</summary>
 
 Name | Level | Institution | Year |
 --- | --- | --- | --- |
@@ -126,7 +167,12 @@ Name | Level | Institution | Year |
 [Elementary Portuguese](https://github.com/gomezabajo/academy/blob/main/diplomas/2004_Curso_Inicial_de_Lingua_Portuguesa.pdf) | A2 | Universidade de Lisboa | 2004 |
 [Beginner Arabic](https://github.com/gomezabajo/academy/blob/main/diplomas/2008_Certificado_EOI_Arabe_A1_PUB.pdf) | A1 | E.O.I. Madrid | 2008 |
 
-## Attended Courses &amp; Seminars
+</details>
+
+## Attended courses & seminars
+
+<details>
+<summary>79 courses at UAM alone, plus dozens more across 30+ institutions worldwide — click to expand</summary>
 
 ### Universidad Autónoma de Madrid
 
@@ -589,13 +635,14 @@ Name | Level | Institution | Year |
 1 | [Object-oriented design](https://github.com/gomezabajo/courses/blob/main/pdf/2024_Object_oriented_design.pdf) | 32h. | February 2024 | Coursera |
 &#35; | Total | 72h. | | |
 
+</details>
+
+---
 
 <p style="margin-top: 20px" align="center">
   <a href="https://github.com/gomezabajo/"><img src="https://komarev.com/ghpvc/?username=gomezabajo"/></a>
   <a href="https://github.com/gomezabajo?tab=followers"><img src="https://img.shields.io/github/followers/gomezabajo?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
 </p>
-
-
 
 [contributors-shield]: https://img.shields.io/github/contributors/gomezabajo/gomezabajo?style=for-the-badge
 [contributors-url]: https://github.com/gomezabajo/gomezabajo/graphs/contributors
@@ -611,3 +658,18 @@ Name | Level | Institution | Year |
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?logo=linkedin&style=for-the-badge
 [linkedin-url]: https://www.linkedin.com/in/gomezabajo
+
+[website-shield]: https://img.shields.io/badge/Website-gomezabajo.es-blue?style=for-the-badge
+[website-url]: https://www.gomezabajo.es/
+
+[orcid-shield]: https://img.shields.io/badge/ORCID-0000--0002--8319--4829-A6CE39?style=for-the-badge&logo=orcid&logoColor=white
+[orcid-url]: https://orcid.org/0000-0002-8319-4829
+
+[x-shield]: https://img.shields.io/badge/X-%40GomezAbajo__en-black?style=for-the-badge&logo=x&logoColor=white
+[x-url]: https://twitter.com/GomezAbajo_en
+
+[scholar-shield]: https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white
+[scholar-url]: https://scholar.google.com/citations?user=h7VMrcIAAAAJ&hl=en
+
+[dblp-shield]: https://img.shields.io/badge/DBLP-Profile-004A87?style=for-the-badge
+[dblp-url]: http://dblp.uni-trier.de/pers/hc/g/G=oacute=mez=Abajo:Pablo
