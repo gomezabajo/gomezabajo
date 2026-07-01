@@ -20,8 +20,8 @@ To keep improving his skills as an ICT professional, in 2015 he joined the [Mode
 Since 2019 he holds a position as professor in the [Computer Science Department](https://www.uam.es/eps/inicio) of the [Universidad Autónoma de Madrid](https://www.uam.es/uam/inicio). During this period, he has been teaching courses on "Compilers" (120h.), "Automata Theory" (30h.), "Software Analysis and Design" (110h.), "Operating Systems" (45h.), "Software Testing" (60h.), and "Software Engineering" (30h.) of the [BSc in Computer Science](https://www.uam.es/uam/informatica), "Numeric Optimization" (35h.) of the [BSc in Science and Data Engineering](https://www.uam.es/uam/ingenieria-datos), and "Advanced Networks and the Internet" (40h.) and "Machine Learning" (12h.) of the [MSc in Computer Science](https://www.uam.es/uam/master-universitario-ingenieria-informatica), scoring an overall of more than 500h of teaching time. He has directed 10 BSc. in Computer Science Thesis.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gomezabajo&show_icons=true&theme=highcontrast" alt="gomezabajo's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomezabajo&theme=highcontrast" alt="gomezabajo's most used languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=gomezabajo&show_icons=true&theme=highcontrast" alt="gomezabajo's GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=gomezabajo&theme=highcontrast" alt="gomezabajo's most used languages" />
 </p>
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/79daad9d9ac54f768849b803a8114686)](https://app.codacy.com/gh/gomezabajo/gomezabajo/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
