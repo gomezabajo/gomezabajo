@@ -85,7 +85,7 @@ This page contains links to files in Postscript (ps) or Portable Document Format
 
 ## Open-source projects
 
-His main line of software development is **[Wodel](https://github.com/gomezabajo/Wodel)**, a domain-specific language for model mutation built on Eclipse/EMF/Xtext, together with its extensions:
+His main line of software development is **[Wodel](https://gomezabajo.github.io/Wodel)**, a domain-specific language for model mutation built on Eclipse/EMF/Xtext, together with its extensions:
 
 - **[Wodel-Edu](https://gomezabajo.github.io/Wodel/wodel-edu.html)** — automated generation and evaluation of diagram-based exercises.
 - **[Wodel-Test](https://gomezabajo.github.io/Wodel-Test)** — a model-based framework for engineering language-specific mutation testing tools.
