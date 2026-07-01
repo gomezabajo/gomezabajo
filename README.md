@@ -15,7 +15,7 @@
 
 From 2008 to 2015 [Pablo Gómez-Abajo](https://www.gomezabajo.es) was working as an IT Manager at [Ingeniería y Prevención de Riesgos, S.L.](https://imasp.net) During this time, he acquired high-level skills in developing solutions for professionals from other technological areas, such as civil engineers, mechanical engineers, and so on. This provides him with a great ability to understand what their needs are and build the easiest solution for them.
 
-To keep improving his skills as an ICT professional, in 2015 he joined the [Modelling and Software Engineering research group](https://www.miso.es) led by [Juan de Lara](http://arantxa.ii.uam.es/~jlara/) and [Esther Guerra](http://arantxa.ii.uam.es/~eguerra/) within the [Computer Science Department](https://www.uam.es/eps/inicio) of the [Universidad Autónoma de Madrid](https://www.uam.es). His research works consist mainly in the design and development of domain-specific languages and generic tools for domain experts. In 2016 he defended his final master's thesis ["A framework for the automated generation of exercises via model mutation"](https://repositorio.uam.es/handle/10486/676054), directed by [Esther Guerra](http://arantxa.ii.uam.es/~eguerra/) and [Juan de Lara](http://arantxa.ii.uam.es/~jlara/), with a special mention. In 2020 he defended his [PhD in Computer Science and Engineering](https://uam.es/EscuelaDoctorado/(es_ES)-Programa-Doctorado_Informatica_Teleco/1446860170757.htm) with the title ["A domain-specific language for model mutation"](https://repositorio.uam.es/handle/10486/693951), directed by [Esther Guerra](http://arantxa.ii.uam.es/~eguerra/) and [Mercedes García Merayo](https://antares.sip.ucm.es/mercedes/), as excellent cum laude. He has been the author of 9 journal publications, co-author of 1 book chapter, and has published in 12 international conferences.
+To keep improving his skills as an ICT professional, in 2015 he joined the [Modelling and Software Engineering research group](https://www.miso.es) led by [Juan de Lara](http://arantxa.ii.uam.es/~jlara/) and [Esther Guerra](http://arantxa.ii.uam.es/~eguerra/) within the [Computer Science Department](https://www.uam.es/eps/inicio) of the [Universidad Autónoma de Madrid](https://www.uam.es). His research works consist mainly in the design and development of domain-specific languages and generic tools for domain experts. In 2016 he defended his final master's thesis ["A framework for the automated generation of exercises via model mutation"](https://repositorio.uam.es/handle/10486/676054), directed by [Esther Guerra](http://arantxa.ii.uam.es/~eguerra/) and [Juan de Lara](http://arantxa.ii.uam.es/~jlara/), with a special mention. In 2020 he defended his [PhD in Computer Science and Engineering](https://uam.es/EscuelaDoctorado/(es_ES)-Programa-Doctorado_Informatica_Teleco/1446860170757.htm) with the title ["A domain-specific language for model mutation"](https://repositorio.uam.es/handle/10486/693951), directed by [Esther Guerra](http://arantxa.ii.uam.es/~eguerra/) and [Mercedes García Merayo](https://antares.sip.ucm.es/mercedes/), as excellent cum laude. He has been the author of 10 journal publications, co-author of 1 book chapter, and has published in 15 international conferences.
 
 Since 2019 he holds a position as professor in the [Computer Science Department](https://www.uam.es/eps/inicio) of the [Universidad Autónoma de Madrid](https://www.uam.es/uam/inicio). During this period, he has been teaching courses on "Compilers" (120h.), "Automata Theory" (30h.), "Software Analysis and Design" (110h.), "Operating Systems" (45h.), "Software Testing" (60h.), and "Software Engineering" (30h.) of the [BSc in Computer Science](https://www.uam.es/uam/informatica), "Numeric Optimization" (35h.) of the [BSc in Science and Data Engineering](https://www.uam.es/uam/ingenieria-datos), and "Advanced Networks and the Internet" (40h.) and "Machine Learning" (12h.) of the [MSc in Computer Science](https://www.uam.es/uam/master-universitario-ingenieria-informatica), scoring an overall of more than 500h of teaching time. He has directed 10 BSc. in Computer Science Thesis.
 
@@ -41,7 +41,7 @@ Since 2019 he holds a position as professor in the [Computer Science Department]
 This page contains links to files in Postscript (ps) or Portable Document Format (pdf) of articles which may be covered by copyright. Copying or distributing these files may violate copyright law. In any case, don't hesitate to contact me if you need an electronic copy of some of the papers or presentations. You can also have a look at my publications from the [DBLP](http://dblp.uni-trier.de/pers/hc/g/G=oacute=mez=Abajo:Pablo) server and [Google Scholar](https://scholar.google.com/citations?user=h7VMrcIAAAAJ&hl=en).
 
 <details>
-<summary>Click to expand</summary>
+<summary><strong>40 publications, 2016-2026</strong> — journals, conferences, and theses — click to expand</summary>
 
 &#35; | Name | Authors | Conference/Journal/Event | Location | Award | Year |
 --- | --- | --- | --- | --- | --- | --- |
@@ -87,6 +87,8 @@ This page contains links to files in Postscript (ps) or Portable Document Format
 1 | [Wodel: A domain-specific language for model mutation](https://dl.acm.org/doi/10.1145/2851613.2851751) | Pablo Gómez-Abajo, Esther Guerra, Juan de Lara | Symposium on Applied Computing 2016 (SAC). pp.:1968-1973 | Pisa |  -- | 2016 
 </details>
 
+[↑ Back to top](#pablo-gómez-abajo)
+
 ## Open-source projects
 
 His main line of software development is **[Wodel](https://gomezabajo.github.io/Wodel)**, a domain-specific language for model mutation built on Eclipse/EMF/Xtext, together with its extensions:
@@ -96,6 +98,8 @@ His main line of software development is **[Wodel](https://gomezabajo.github.io/
 - **[Wodel4diac](https://github.com/gomezabajo/Wodel4diac)** — a Wodel variant compatible with Eclipse 4diac / IEC 61499.
 
 The [project homepage](https://gomezabajo.github.io/Wodel/) has tutorials, samples, and further tool downloads. The rest of his repositories are listed on his [GitHub profile](https://github.com/gomezabajo?tab=repositories).
+
+[↑ Back to top](#pablo-gómez-abajo)
 
 ## Education
 
@@ -136,6 +140,8 @@ Name | Year |
 
 </details>
 
+[↑ Back to top](#pablo-gómez-abajo)
+
 ## Languages
 
 <details>
@@ -168,6 +174,8 @@ Name | Level | Institution | Year |
 [Beginner Arabic](https://github.com/gomezabajo/academy/blob/main/diplomas/2008_Certificado_EOI_Arabe_A1_PUB.pdf) | A1 | E.O.I. Madrid | 2008 |
 
 </details>
+
+[↑ Back to top](#pablo-gómez-abajo)
 
 ## Attended courses & seminars
 
@@ -636,6 +644,8 @@ Name | Level | Institution | Year |
 &#35; | Total | 72h. | | |
 
 </details>
+
+[↑ Back to top](#pablo-gómez-abajo)
 
 ---
 
