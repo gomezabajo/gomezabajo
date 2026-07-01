@@ -38,7 +38,8 @@ Since 2019 he holds a position as professor in the [Computer Science Department]
 
 ## Publications
 
-This page contains links to files in Postscript (ps) or Portable Document Format (pdf) of articles which may be covered by copyright. Copying or distributing these files may violate copyright law. In any case, don't hesitate to contact me if you need an electronic copy of some of the papers or presentations. You can also have a look at my publications from the [DBLP](http://dblp.uni-trier.de/pers/hc/g/G=oacute=mez=Abajo:Pablo) server and [Google Scholar](https://scholar.google.com/citations?user=h7VMrcIAAAAJ&hl=en).
+<details>
+<summary>This page contains links to files in Postscript (ps) or Portable Document Format (pdf) of articles which may be covered by copyright. Copying or distributing these files may violate copyright law. In any case, don't hesitate to contact me if you need an electronic copy of some of the papers or presentations. You can also have a look at my publications from the [DBLP](http://dblp.uni-trier.de/pers/hc/g/G=oacute=mez=Abajo:Pablo) server and [Google Scholar](https://scholar.google.com/citations?user=h7VMrcIAAAAJ&hl=en).</summary>
 
 &#35; | Name | Authors | Conference/Journal/Event | Location | Award | Year |
 --- | --- | --- | --- | --- | --- | --- |
@@ -82,6 +83,7 @@ This page contains links to files in Postscript (ps) or Portable Document Format
 3 | [Poster: "Wodel: A DSL for model mutation; and Wodel-Edu: its application to the automated generation of exercises"](https://www.gomezabajo.es/pdf/DSM-TP.2016-Wodel-complete.pdf) | Pablo Gómez-Abajo, Esther Guerra, Juan de Lara | 7th International Summer School on Domain-Specific Modeling (DSM-TP) | Genève |  -- | 2016 
 2 | [A framework for the automated generation of exercises via model mutation](https://repositorio.uam.es/handle/10486/676054) | Pablo Gómez-Abajo | Final master's thesis. Master’s Program (MSc) in ICT Research and Innovation | Universidad Autónoma de Madrid |  Special mention | 2016 
 1 | [Wodel: A domain-specific language for model mutation](https://dl.acm.org/doi/10.1145/2851613.2851751) | Pablo Gómez-Abajo, Esther Guerra, Juan de Lara | Symposium on Applied Computing 2016 (SAC). pp.:1968-1973 | Pisa |  -- | 2016 
+</details>
 
 ## Open-source projects
 
