@@ -38,8 +38,10 @@ Since 2019 he holds a position as professor in the [Computer Science Department]
 
 ## Publications
 
+This page contains links to files in Postscript (ps) or Portable Document Format (pdf) of articles which may be covered by copyright. Copying or distributing these files may violate copyright law. In any case, don't hesitate to contact me if you need an electronic copy of some of the papers or presentations. You can also have a look at my publications from the [DBLP](http://dblp.uni-trier.de/pers/hc/g/G=oacute=mez=Abajo:Pablo) server and [Google Scholar](https://scholar.google.com/citations?user=h7VMrcIAAAAJ&hl=en).
+
 <details>
-<summary>This page contains links to files in Postscript (ps) or Portable Document Format (pdf) of articles which may be covered by copyright. Copying or distributing these files may violate copyright law. In any case, don't hesitate to contact me if you need an electronic copy of some of the papers or presentations. You can also have a look at my publications from the [DBLP](http://dblp.uni-trier.de/pers/hc/g/G=oacute=mez=Abajo:Pablo) server and [Google Scholar](https://scholar.google.com/citations?user=h7VMrcIAAAAJ&hl=en).</summary>
+<summary>Click here to expand</summary>
 
 &#35; | Name | Authors | Conference/Journal/Event | Location | Award | Year |
 --- | --- | --- | --- | --- | --- | --- |
