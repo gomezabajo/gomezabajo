@@ -2,7 +2,6 @@
 
 <p align="center"><em>Computer scientist · Software engineer · Associate Professor, Universidad Autónoma de Madrid</em></p>
 
-<p align="center">
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stars][stars-shield]][stars-url]
@@ -13,7 +12,6 @@
 [![X][x-shield]][x-url]
 [![Google Scholar][scholar-shield]][scholar-url]
 [![DBLP][dblp-shield]][dblp-url]
-</p>
 
 From 2008 to 2015 [Pablo Gómez-Abajo](https://www.gomezabajo.es) was working as an IT Manager at [Ingeniería y Prevención de Riesgos, S.L.](https://imasp.net) During this time, he acquired high-level skills in developing solutions for professionals from other technological areas, such as civil engineers, mechanical engineers, and so on. This provides him with a great ability to understand what their needs are and build the easiest solution for them.
 
