@@ -654,32 +654,32 @@ Name | Level | Institution | Year |
   <a href="https://github.com/gomezabajo?tab=followers"><img src="https://img.shields.io/github/followers/gomezabajo?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
 </p>
 
-[contributors-shield]: https://img.shields.io/github/contributors/gomezabajo/gomezabajo?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/gomezabajo/gomezabajo
 [contributors-url]: https://github.com/gomezabajo/gomezabajo/graphs/contributors
 
-[stars-shield]: https://img.shields.io/github/stars/gomezabajo/gomezabajo?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/gomezabajo/gomezabajo
 [stars-url]: https://github.com/gomezabajo/gomezabajo/stargazers
 
-[forks-shield]: https://img.shields.io/github/forks/gomezabajo/gomezabajo?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/gomezabajo/gomezabajo
 [forks-url]: https://github.com/gomezabajo/gomezabajo/network/members
 
-[issues-shield]: https://img.shields.io/github/issues/gomezabajo/gomezabajo?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/gomezabajo/gomezabajo
 [issues-url]: https://github.com/gomezabajo/gomezabajo/issues
 
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?logo=linkedin&style=for-the-badge
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?logo=linkedin
 [linkedin-url]: https://www.linkedin.com/in/gomezabajo
 
-[website-shield]: https://img.shields.io/badge/Website-gomezabajo.es-blue?style=for-the-badge
+[website-shield]: https://img.shields.io/badge/Website-gomezabajo.es-blue
 [website-url]: https://www.gomezabajo.es/
 
-[orcid-shield]: https://img.shields.io/badge/ORCID-0000--0002--8319--4829-A6CE39?style=for-the-badge&logo=orcid&logoColor=white
+[orcid-shield]: https://img.shields.io/badge/ORCID-0000--0002--8319--4829-A6CE39?logo=orcid&logoColor=white
 [orcid-url]: https://orcid.org/0000-0002-8319-4829
 
-[x-shield]: https://img.shields.io/badge/X-%40GomezAbajo__en-black?style=for-the-badge&logo=x&logoColor=white
+[x-shield]: https://img.shields.io/badge/X-%40GomezAbajo__en-black?logo=x&logoColor=white
 [x-url]: https://twitter.com/GomezAbajo_en
 
-[scholar-shield]: https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white
+[scholar-shield]: https://img.shields.io/badge/Google_Scholar-Profile-4285F4?logo=googlescholar&logoColor=white
 [scholar-url]: https://scholar.google.com/citations?user=h7VMrcIAAAAJ&hl=en
 
-[dblp-shield]: https://img.shields.io/badge/DBLP-Profile-004A87?style=for-the-badge
+[dblp-shield]: https://img.shields.io/badge/DBLP-Profile-004A87
 [dblp-url]: http://dblp.uni-trier.de/pers/hc/g/G=oacute=mez=Abajo:Pablo
