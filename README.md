@@ -12,6 +12,10 @@
 [![X][x-shield]][x-url]
 [![Google Scholar][scholar-shield]][scholar-url]
 [![DBLP][dblp-shield]][dblp-url]
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/79daad9d9ac54f768849b803a8114686)](https://app.codacy.com/gh/gomezabajo/gomezabajo/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+[![EPL licensed](https://img.shields.io/badge/license-EPL2.0-orange.svg)](https://www.eclipse.org/legal/epl-2.0/)
+[![GitHub Repo stars](https://img.shields.io/github/stars/gomezabajo/gomezabajo?label=Repo%20Stars)](https://github.com/gomezabajo/gomezabajo/stargazers)
+
 
 From 2008 to 2015, [Pablo Gómez-Abajo](https://www.gomezabajo.es) worked as an IT Manager at [Ingeniería y Prevención de Riesgos, S.L.](https://imasp.net), where he developed software solutions for professionals in other technical fields, including civil and mechanical engineers. That experience gave him a strong sense of how to understand a client's needs and design a straightforward solution.
 
@@ -23,10 +27,6 @@ He has held a professorship in the [Computer Science Department](https://www.uam
   <img src="https://github-stats-extended.vercel.app/api?username=gomezabajo&show_icons=true&theme=highcontrast" alt="gomezabajo's GitHub stats" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=gomezabajo&theme=highcontrast" alt="gomezabajo's most used languages" />
 </p>
-
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/79daad9d9ac54f768849b803a8114686)](https://app.codacy.com/gh/gomezabajo/gomezabajo/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
-[![EPL licensed](https://img.shields.io/badge/license-EPL2.0-orange.svg)](https://www.eclipse.org/legal/epl-2.0/)
-[![GitHub Repo stars](https://img.shields.io/github/stars/gomezabajo/gomezabajo?label=Repo%20Stars)](https://github.com/gomezabajo/gomezabajo/stargazers)
 
 ## Contents
 
