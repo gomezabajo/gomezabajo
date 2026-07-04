@@ -2,19 +2,12 @@
 
 <p align="center"><em>Computer scientist · Software engineer · Associate Professor, Universidad Autónoma de Madrid</em></p>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stars][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
 [![Website][website-shield]][website-url]
 [![ORCID][orcid-shield]][orcid-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![X][x-shield]][x-url]
 [![Google Scholar][scholar-shield]][scholar-url]
 [![DBLP][dblp-shield]][dblp-url]
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/79daad9d9ac54f768849b803a8114686)](https://app.codacy.com/gh/gomezabajo/gomezabajo/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
-[![EPL licensed](https://img.shields.io/badge/license-EPL2.0-orange.svg)](https://www.eclipse.org/legal/epl-2.0/)
-[![GitHub Repo stars](https://img.shields.io/github/stars/gomezabajo/gomezabajo?label=Repo%20Stars)](https://github.com/gomezabajo/gomezabajo/stargazers)
 
 [Pablo Gómez-Abajo](https://www.gomezabajo.es) develops research software for [**model-driven engineering**](https://en.wikipedia.org/wiki/Model-driven_engineering), with a focus on
 [**domain-specific languages**](https://en.wikipedia.org/wiki/Domain-specific_language), **model mutation**, [**mutation testing**](https://en.wikipedia.org/wiki/Mutation_testing),
@@ -670,6 +663,14 @@ Name | Level | Institution | Year |
 [↑ Back to top](#pablo-gómez-abajo)
 
 ---
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stars][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/79daad9d9ac54f768849b803a8114686)](https://app.codacy.com/gh/gomezabajo/gomezabajo/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+[![EPL licensed](https://img.shields.io/badge/license-EPL2.0-orange.svg)](https://www.eclipse.org/legal/epl-2.0/)
+[![GitHub Repo stars](https://img.shields.io/github/stars/gomezabajo/gomezabajo?label=Repo%20Stars)](https://github.com/gomezabajo/gomezabajo/stargazers)
 
 <p style="margin-top: 20px" align="center">
   <a href="https://github.com/gomezabajo/"><img src="https://komarev.com/ghpvc/?username=gomezabajo"/></a>
