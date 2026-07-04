@@ -20,9 +20,10 @@ I develop research software for **model-driven engineering**, with a focus on
 **domain-specific languages**, **model mutation**, **mutation testing**,
 **metamorphic testing**, and **educational software tools**.
 
-My main software ecosystem is built around **Wodel**, a DSL for model mutation,
-and its extensions: **Wodel-Edu**, **Wodel-Test**, **Wodel4diac**, and related
-metamorphic-testing work such as **Gotten**.
+My main software ecosystem is built around [**Wodel**](https://github.com/gomezabajo/Wodel), a DSL for model mutation,
+and its extensions: [**Wodel-Edu**](https://github.com/gomezabajo/Wodel-EDU), [**Wodel-Test**](https://github.com/gomezabajo/Wodel-Test)
+, [**Wodel4diac**](https://github.com/gomezabajo/Wodel4diac), and related
+metamorphic-testing work such as [**Gotten**](https://g0tten.github.io).
 
 From 2008 to 2015, [Pablo Gómez-Abajo](https://www.gomezabajo.es) worked as an IT Manager at [Ingeniería y Prevención de Riesgos, S.L.](https://imasp.net), where he developed software solutions for professionals in other technical fields, including civil and mechanical engineers. That experience gave him a strong sense of how to understand a client's needs and design a straightforward solution.
 
