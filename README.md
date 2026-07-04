@@ -16,16 +16,16 @@
 [![EPL licensed](https://img.shields.io/badge/license-EPL2.0-orange.svg)](https://www.eclipse.org/legal/epl-2.0/)
 [![GitHub Repo stars](https://img.shields.io/github/stars/gomezabajo/gomezabajo?label=Repo%20Stars)](https://github.com/gomezabajo/gomezabajo/stargazers)
 
-I develop research software for **model-driven engineering**, with a focus on
-**domain-specific languages**, **model mutation**, **mutation testing**,
-**metamorphic testing**, and **educational software tools**.
+[Pablo Gómez-Abajo](https://www.gomezabajo.es) develops research software for [**model-driven engineering**](https://en.wikipedia.org/wiki/Model-driven_engineering), with a focus on
+[**domain-specific languages**](https://en.wikipedia.org/wiki/Domain-specific_language), **model mutation**, [**mutation testing**](https://en.wikipedia.org/wiki/Mutation_testing),
+[**metamorphic testing**](https://en.wikipedia.org/wiki/Metamorphic_testing), and [**educational software tools**](https://en.wikipedia.org/wiki/Educational_software).
 
-My main software ecosystem is built around [**Wodel**](https://github.com/gomezabajo/Wodel), a DSL for model mutation,
+His main software ecosystem is built around [**Wodel**](https://github.com/gomezabajo/Wodel), a DSL for model mutation,
 and its extensions: [**Wodel-Edu**](https://github.com/gomezabajo/Wodel-EDU), [**Wodel-Test**](https://github.com/gomezabajo/Wodel-Test)
 , [**Wodel4diac**](https://github.com/gomezabajo/Wodel4diac), and related
 metamorphic-testing work such as [**Gotten**](https://g0tten.github.io).
 
-From 2008 to 2015, [Pablo Gómez-Abajo](https://www.gomezabajo.es) worked as an IT Manager at [Ingeniería y Prevención de Riesgos, S.L.](https://imasp.net), where he developed software solutions for professionals in other technical fields, including civil and mechanical engineers. That experience gave him a strong sense of how to understand a client's needs and design a straightforward solution.
+From 2008 to 2015, [Pablo](https://www.gomezabajo.es) worked as an IT Manager at [Ingeniería y Prevención de Riesgos, S.L.](https://imasp.net), where he developed software solutions for professionals in other technical fields, including civil and mechanical engineers. That experience gave him a strong sense of how to understand a client's needs and design a straightforward solution.
 
 In 2015, seeking to deepen his research training, he joined the [Modelling and Software Engineering research group](https://www.miso.es), led by [Juan de Lara](http://arantxa.ii.uam.es/~jlara/) and [Esther Guerra](http://arantxa.ii.uam.es/~eguerra/), in the [Computer Science Department](https://www.uam.es/eps/inicio) at the [Universidad Autónoma de Madrid](https://www.uam.es). His research focuses on the design and development of domain-specific languages and tools for domain experts. In 2016, he completed his master's thesis, ["A framework for the automated generation of exercises via model mutation"](https://repositorio.uam.es/handle/10486/676054), under the direction of [Esther Guerra](http://arantxa.ii.uam.es/~eguerra/) and [Juan de Lara](http://arantxa.ii.uam.es/~jlara/), earning a special distinction. In 2020, he completed his [PhD in Computer Science and Engineering](https://uam.es/EscuelaDoctorado/(es_ES)-Programa-Doctorado_Informatica_Teleco/1446860170757.htm), titled ["A domain-specific language for model mutation"](https://repositorio.uam.es/handle/10486/693951), under the direction of [Esther Guerra](http://arantxa.ii.uam.es/~eguerra/) and [Mercedes García Merayo](https://antares.sip.ucm.es/mercedes/), earning the highest possible distinction of excellent cum laude. He has authored 10 journal articles, co-authored one book chapter, and published in 15 international conferences.
 
