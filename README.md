@@ -2,14 +2,6 @@
 
 <p align="center"><em>Computer scientist · Software engineer · Associate Professor, Universidad Autónoma de Madrid</em></p>
 
-I develop research software for **model-driven engineering**, with a focus on
-**domain-specific languages**, **model mutation**, **mutation testing**,
-**metamorphic testing**, and **educational software tools**.
-
-My main software ecosystem is built around **Wodel**, a DSL for model mutation,
-and its extensions: **Wodel-Edu**, **Wodel-Test**, **Wodel4diac**, and related
-metamorphic-testing work such as **Gotten**.
-
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stars][stars-shield]][stars-url]
@@ -24,6 +16,13 @@ metamorphic-testing work such as **Gotten**.
 [![EPL licensed](https://img.shields.io/badge/license-EPL2.0-orange.svg)](https://www.eclipse.org/legal/epl-2.0/)
 [![GitHub Repo stars](https://img.shields.io/github/stars/gomezabajo/gomezabajo?label=Repo%20Stars)](https://github.com/gomezabajo/gomezabajo/stargazers)
 
+I develop research software for **model-driven engineering**, with a focus on
+**domain-specific languages**, **model mutation**, **mutation testing**,
+**metamorphic testing**, and **educational software tools**.
+
+My main software ecosystem is built around **Wodel**, a DSL for model mutation,
+and its extensions: **Wodel-Edu**, **Wodel-Test**, **Wodel4diac**, and related
+metamorphic-testing work such as **Gotten**.
 
 From 2008 to 2015, [Pablo Gómez-Abajo](https://www.gomezabajo.es) worked as an IT Manager at [Ingeniería y Prevención de Riesgos, S.L.](https://imasp.net), where he developed software solutions for professionals in other technical fields, including civil and mechanical engineers. That experience gave him a strong sense of how to understand a client's needs and design a straightforward solution.
 
