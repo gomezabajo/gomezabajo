@@ -2,6 +2,14 @@
 
 <p align="center"><em>Computer scientist · Software engineer · Associate Professor, Universidad Autónoma de Madrid</em></p>
 
+I develop research software for **model-driven engineering**, with a focus on
+**domain-specific languages**, **model mutation**, **mutation testing**,
+**metamorphic testing**, and **educational software tools**.
+
+My main software ecosystem is built around **Wodel**, a DSL for model mutation,
+and its extensions: **Wodel-Edu**, **Wodel-Test**, **Wodel4diac**, and related
+metamorphic-testing work such as **Gotten**.
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stars][stars-shield]][stars-url]
@@ -30,11 +38,25 @@ He has held a professorship in the [Computer Science Department](https://www.uam
 
 ## Contents
 
+- [Start here](#start-here)
 - [Publications](#publications)
 - [Open-source projects](#open-source-projects)
 - [Education](#education)
 - [Languages](#languages)
 - [Attended courses & seminars](#attended-courses--seminars)
+
+
+## Start here
+
+If you are visiting this profile for the first time, these are the main projects:
+
+| Project | Purpose | Audience |
+| --- | --- | --- |
+| [Wodel](https://github.com/gomezabajo/Wodel) | DSL for model mutation | MDE researchers, DSL engineers |
+| [Wodel-Edu](https://gomezabajo.github.io/Wodel-EDU) | Generation and evaluation of diagram-based exercises | Teachers, educational-technology researchers |
+| [Wodel-Test](https://github.com/gomezabajo/Wodel-Test) | Language-specific mutation testing tools from meta-models | Testing researchers, DSL developers |
+| [Wodel4diac](https://github.com/gomezabajo/Wodel4diac) | Mutation testing for IEC 61499 / Eclipse 4diac | CPS and industrial automation researchers |
+| [Gotten](https://g0tten.github.io/) | Domain-specific metamorphic testing environments | Testing and AI-workflow researchers |
 
 ## Publications
 
