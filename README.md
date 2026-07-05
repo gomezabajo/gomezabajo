@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://gomezabajo.github.io">
-    <img src="https://gomezabajo.es/pablo/images/emoji.jpg" width="120" height="100" alt="Pablo emoji" />
+    <img src="https://gomezabajo.es/pablo/images/emoji.jpg" width="120" height="120" alt="Pablo emoji" />
   </a>
 </p>
 
