@@ -1,4 +1,10 @@
-# Pablo Gómez-Abajo
+<p align="center">
+  <a href="https://gomezabajo.github.io">
+    <img src="https://gomezabajo.es/pablo/images/emoji.jpg" width="120" height="100" alt="Pablo emoji" />
+  </a>
+</p>
+
+<h1 align="center">Pablo Gómez-Abajo</h1>
 
 <p align="center"><em>Computer scientist · Software engineer · Associate Professor, Universidad Autónoma de Madrid</em></p>
 
