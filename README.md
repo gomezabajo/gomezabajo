@@ -26,7 +26,7 @@
 His main software ecosystem is built around [**Wodel**](https://github.com/gomezabajo/Wodel), a DSL for model mutation,
 and its extensions: [**Wodel-Edu**](https://github.com/gomezabajo/Wodel-EDU), [**Wodel-Test**](https://github.com/gomezabajo/Wodel-Test)
 , [**Wodel4diac**](https://github.com/gomezabajo/Wodel4diac), and related
-metamorphic-testing work such as [**Gotten**](https://g0tten.github.io).
+metamorphic-testing work such as [**Gotten**](https://g0tten.github.io). He has also developed [**Good-Eating**](https://github.com/gomezabajo/Good-Eating), an adaptive food recommendation system for people on special diets.
 
 ## Contents
 
