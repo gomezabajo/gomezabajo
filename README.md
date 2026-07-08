@@ -33,7 +33,7 @@ metamorphic-testing work such as [**Gotten**](https://g0tten.github.io).
 - [Start here](#start-here)
 - [About](#about)
 - [Publications](#publications)
-- [Open-source projects](#open-source-projects)
+- [Research projects](#research-projects)
 - [Education](#education)
 - [Languages](#languages)
 - [Attended courses & seminars](#attended-courses--seminars)
@@ -49,16 +49,17 @@ If you are visiting this profile for the first time, these are the main projects
 | [Wodel-Test](https://github.com/gomezabajo/Wodel-Test) | Language-specific mutation testing tools from meta-models | Testing researchers, DSL developers |
 | [Wodel4diac](https://github.com/gomezabajo/Wodel4diac) | Mutation testing for IEC 61499 / Eclipse 4diac | CPS and industrial automation researchers |
 | [Gotten](https://g0tten.github.io/) | Domain-specific metamorphic testing environments | Testing and AI-workflow researchers |
+| [Good-Eating](https://github.com/gomezabajo/Good-Eating) | An adaptive food recommendation system for people on special diets |  |
 
 ## About
 
-From 2008 to 2015, [Pablo](https://www.gomezabajo.es) worked as an IT Manager at [Ingeniería y Prevención de Riesgos, S.L.](https://imasp.net), where he developed software solutions for professionals in other technical fields, including civil and mechanical engineers. That experience gave him a strong sense of how to understand a client's needs and design a straightforward solution.
+From 2008 to 2015, <details><summary>[Pablo](https://www.gomezabajo.es) worked as an IT Manager at [Ingeniería y Prevención de Riesgos, S.L.](https://imasp.net), where he developed software solutions for professionals in other technical fields, including civil and mechanical engineers. That experience gave him a strong sense of how to understand a client's needs and design a straightforward solution.
 
 In 2015, seeking to deepen his research training, he joined the [Modelling and Software Engineering research group](https://www.miso.es), led by [Juan de Lara](http://arantxa.ii.uam.es/~jlara/) and [Esther Guerra](http://arantxa.ii.uam.es/~eguerra/), in the [Computer Science Department](https://www.uam.es/eps/inicio) at the [Universidad Autónoma de Madrid](https://www.uam.es). His research focuses on the design and development of domain-specific languages and tools for domain experts. In 2016, he completed his master's thesis, ["A framework for the automated generation of exercises via model mutation"](https://repositorio.uam.es/handle/10486/676054), under the direction of [Esther Guerra](http://arantxa.ii.uam.es/~eguerra/) and [Juan de Lara](http://arantxa.ii.uam.es/~jlara/), earning a special distinction. In 2020, he completed his [PhD in Computer Science and Engineering](https://uam.es/EscuelaDoctorado/(es_ES)-Programa-Doctorado_Informatica_Teleco/1446860170757.htm), titled ["A domain-specific language for model mutation"](https://repositorio.uam.es/handle/10486/693951), under the direction of [Esther Guerra](http://arantxa.ii.uam.es/~eguerra/) and [Mercedes García Merayo](https://antares.sip.ucm.es/mercedes/), earning the highest possible distinction of excellent cum laude. He has authored 10 journal articles, co-authored one book chapter, and published in 15 international conferences.
 
 He has held a professorship in the [Computer Science Department](https://www.uam.es/eps/inicio) at the [Universidad Autónoma de Madrid](https://www.uam.es/uam/inicio) since 2019. He has taught "Compilers" (120 hours), "Automata Theory" (30 hours), "Software Analysis and Design" (110 hours), "Operating Systems" (45 hours), "Software Testing" (60 hours), and "Software Engineering" (30 hours) in the [BSc in Computer Science](https://www.uam.es/uam/informatica); "Numeric Optimization" (35 hours) in the [BSc in Science and Data Engineering](https://www.uam.es/uam/ingenieria-datos); and "Advanced Networks and the Internet" (40 hours) and "Machine Learning" (12 hours) in the [MSc in Computer Science](https://www.uam.es/uam/master-universitario-ingenieria-informatica), for a total of more than 500 teaching hours. He has supervised 14 undergraduate theses in computer science.
 
-His research is supported by publicly funded research projects of the Spanish Ministry of Science and the Madrid regional R&D programme.
+His research is supported by publicly funded research projects of the Spanish Ministry of Science and the Madrid regional R&D programme.</summary></details>
 
 [↑ Back to top](#pablo-gómez-abajo)
 
@@ -116,13 +117,15 @@ This page contains links to files in Postscript (ps) or Portable Document Format
 
 [↑ Back to top](#pablo-gómez-abajo)
 
-## Open-source projects
+## Research projects
 
 His main line of software development is **[Wodel](https://gomezabajo.github.io/Wodel)**, a domain-specific language for model mutation built on Eclipse/EMF/Xtext, together with its extensions:
 
 - **[Wodel-Edu](https://gomezabajo.github.io/Wodel/wodel-edu.html)** — automated generation and evaluation of diagram-based exercises.
 - **[Wodel-Test](https://gomezabajo.github.io/Wodel-Test)** — a model-based framework for engineering language-specific mutation testing tools.
 - **[Wodel4diac](https://github.com/gomezabajo/Wodel4diac)** — a Wodel variant compatible with Eclipse 4diac / IEC 61499.
+- **[Gotten](https://g0tten.github.io/)** — a generation tool of domain-specific metamorphic testing environments
+- **[Good-Eating](https://github.com/gomezabajo/Good-Eating)** — an adaptive food recommendation system for people on special diets
 
 The [project homepage](https://gomezabajo.github.io/Wodel/) has tutorials, samples, and further tool downloads. The rest of his repositories are listed on his [GitHub profile](https://github.com/gomezabajo?tab=repositories).
 
