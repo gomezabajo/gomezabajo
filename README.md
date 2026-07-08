@@ -8,12 +8,16 @@
 
 <p align="center"><em>Computer scientist · Software engineer · Associate Professor, Universidad Autónoma de Madrid</em></p>
 
+<div align="center">
+
 [![Website][website-shield]][website-url]
 [![ORCID][orcid-shield]][orcid-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![X][x-shield]][x-url]
 [![Google Scholar][scholar-shield]][scholar-url]
 [![DBLP][dblp-shield]][dblp-url]
+
+</div>
 
 [Pablo Gómez-Abajo](https://www.gomezabajo.es) develops research software for [**model-driven engineering**](https://en.wikipedia.org/wiki/Model-driven_engineering), with a focus on
 [**domain-specific languages**](https://en.wikipedia.org/wiki/Domain-specific_language), **model mutation**, [**mutation testing**](https://en.wikipedia.org/wiki/Mutation_testing),
@@ -24,26 +28,15 @@ and its extensions: [**Wodel-Edu**](https://github.com/gomezabajo/Wodel-EDU), [*
 , [**Wodel4diac**](https://github.com/gomezabajo/Wodel4diac), and related
 metamorphic-testing work such as [**Gotten**](https://g0tten.github.io).
 
-From 2008 to 2015, [Pablo](https://www.gomezabajo.es) worked as an IT Manager at [Ingeniería y Prevención de Riesgos, S.L.](https://imasp.net), where he developed software solutions for professionals in other technical fields, including civil and mechanical engineers. That experience gave him a strong sense of how to understand a client's needs and design a straightforward solution.
-
-In 2015, seeking to deepen his research training, he joined the [Modelling and Software Engineering research group](https://www.miso.es), led by [Juan de Lara](http://arantxa.ii.uam.es/~jlara/) and [Esther Guerra](http://arantxa.ii.uam.es/~eguerra/), in the [Computer Science Department](https://www.uam.es/eps/inicio) at the [Universidad Autónoma de Madrid](https://www.uam.es). His research focuses on the design and development of domain-specific languages and tools for domain experts. In 2016, he completed his master's thesis, ["A framework for the automated generation of exercises via model mutation"](https://repositorio.uam.es/handle/10486/676054), under the direction of [Esther Guerra](http://arantxa.ii.uam.es/~eguerra/) and [Juan de Lara](http://arantxa.ii.uam.es/~jlara/), earning a special distinction. In 2020, he completed his [PhD in Computer Science and Engineering](https://uam.es/EscuelaDoctorado/(es_ES)-Programa-Doctorado_Informatica_Teleco/1446860170757.htm), titled ["A domain-specific language for model mutation"](https://repositorio.uam.es/handle/10486/693951), under the direction of [Esther Guerra](http://arantxa.ii.uam.es/~eguerra/) and [Mercedes García Merayo](https://antares.sip.ucm.es/mercedes/), earning the highest possible distinction of excellent cum laude. He has authored 10 journal articles, co-authored one book chapter, and published in 15 international conferences.
-
-He has held a professorship in the [Computer Science Department](https://www.uam.es/eps/inicio) at the [Universidad Autónoma de Madrid](https://www.uam.es/uam/inicio) since 2019. He has taught "Compilers" (120 hours), "Automata Theory" (30 hours), "Software Analysis and Design" (110 hours), "Operating Systems" (45 hours), "Software Testing" (60 hours), and "Software Engineering" (30 hours) in the [BSc in Computer Science](https://www.uam.es/uam/informatica); "Numeric Optimization" (35 hours) in the [BSc in Science and Data Engineering](https://www.uam.es/uam/ingenieria-datos); and "Advanced Networks and the Internet" (40 hours) and "Machine Learning" (12 hours) in the [MSc in Computer Science](https://www.uam.es/uam/master-universitario-ingenieria-informatica), for a total of more than 500 teaching hours. He has supervised 14 undergraduate theses in computer science.
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=gomezabajo&show_icons=true&theme=highcontrast" alt="gomezabajo's GitHub stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=gomezabajo&theme=highcontrast" alt="gomezabajo's most used languages" />
-</p>
-
 ## Contents
 
 - [Start here](#start-here)
+- [About](#about)
 - [Publications](#publications)
 - [Open-source projects](#open-source-projects)
 - [Education](#education)
 - [Languages](#languages)
 - [Attended courses & seminars](#attended-courses--seminars)
-
 
 ## Start here
 
@@ -52,14 +45,27 @@ If you are visiting this profile for the first time, these are the main projects
 | Project | Purpose | Audience |
 | --- | --- | --- |
 | [Wodel](https://github.com/gomezabajo/Wodel) | DSL for model mutation | MDE researchers, DSL engineers |
-| [Wodel-Edu](https://gomezabajo.github.io/Wodel-EDU) | Generation and evaluation of diagram-based exercises | Teachers, educational-technology researchers |
+| [Wodel-Edu](https://github.com/gomezabajo/Wodel-EDU) | Generation and evaluation of diagram-based exercises | Teachers, educational-technology researchers |
 | [Wodel-Test](https://github.com/gomezabajo/Wodel-Test) | Language-specific mutation testing tools from meta-models | Testing researchers, DSL developers |
 | [Wodel4diac](https://github.com/gomezabajo/Wodel4diac) | Mutation testing for IEC 61499 / Eclipse 4diac | CPS and industrial automation researchers |
 | [Gotten](https://g0tten.github.io/) | Domain-specific metamorphic testing environments | Testing and AI-workflow researchers |
 
+## About
+
+From 2008 to 2015, [Pablo](https://www.gomezabajo.es) worked as an IT Manager at [Ingeniería y Prevención de Riesgos, S.L.](https://imasp.net), where he developed software solutions for professionals in other technical fields, including civil and mechanical engineers. That experience gave him a strong sense of how to understand a client's needs and design a straightforward solution.
+
+In 2015, seeking to deepen his research training, he joined the [Modelling and Software Engineering research group](https://www.miso.es), led by [Juan de Lara](http://arantxa.ii.uam.es/~jlara/) and [Esther Guerra](http://arantxa.ii.uam.es/~eguerra/), in the [Computer Science Department](https://www.uam.es/eps/inicio) at the [Universidad Autónoma de Madrid](https://www.uam.es). His research focuses on the design and development of domain-specific languages and tools for domain experts. In 2016, he completed his master's thesis, ["A framework for the automated generation of exercises via model mutation"](https://repositorio.uam.es/handle/10486/676054), under the direction of [Esther Guerra](http://arantxa.ii.uam.es/~eguerra/) and [Juan de Lara](http://arantxa.ii.uam.es/~jlara/), earning a special distinction. In 2020, he completed his [PhD in Computer Science and Engineering](https://uam.es/EscuelaDoctorado/(es_ES)-Programa-Doctorado_Informatica_Teleco/1446860170757.htm), titled ["A domain-specific language for model mutation"](https://repositorio.uam.es/handle/10486/693951), under the direction of [Esther Guerra](http://arantxa.ii.uam.es/~eguerra/) and [Mercedes García Merayo](https://antares.sip.ucm.es/mercedes/), earning the highest possible distinction of excellent cum laude. He has authored 10 journal articles, co-authored one book chapter, and published in 15 international conferences.
+
+He has held a professorship in the [Computer Science Department](https://www.uam.es/eps/inicio) at the [Universidad Autónoma de Madrid](https://www.uam.es/uam/inicio) since 2019. He has taught "Compilers" (120 hours), "Automata Theory" (30 hours), "Software Analysis and Design" (110 hours), "Operating Systems" (45 hours), "Software Testing" (60 hours), and "Software Engineering" (30 hours) in the [BSc in Computer Science](https://www.uam.es/uam/informatica); "Numeric Optimization" (35 hours) in the [BSc in Science and Data Engineering](https://www.uam.es/uam/ingenieria-datos); and "Advanced Networks and the Internet" (40 hours) and "Machine Learning" (12 hours) in the [MSc in Computer Science](https://www.uam.es/uam/master-universitario-ingenieria-informatica), for a total of more than 500 teaching hours. He has supervised 14 undergraduate theses in computer science.
+
+His research is supported by publicly funded research projects of the Spanish Ministry of Science and the Madrid regional R&D programme.
+
+[↑ Back to top](#pablo-gómez-abajo)
+
+
 ## Publications
 
-This page contains links to files in Postscript (ps) or Portable Document Format (pdf) of articles which may be covered by copyright. Copying or distributing these files may violate copyright law. In any case, don't hesitate to contact me if you need an electronic copy of some of the papers or presentations. You can also have a look at my publications from the [DBLP](http://dblp.uni-trier.de/pers/hc/g/G=oacute=mez=Abajo:Pablo) server and [Google Scholar](https://scholar.google.com/citations?user=h7VMrcIAAAAJ&hl=en).
+This page contains links to files in Postscript (ps) or Portable Document Format (pdf) of articles which may be covered by copyright. Copying or distributing these files may violate copyright law. In any case, don't hesitate to contact me if you need an electronic copy of some of the papers or presentations. You can also have a look at my publications from the [DBLP](https://dblp.uni-trier.de/pers/hc/g/G=oacute=mez=Abajo:Pablo) server and [Google Scholar](https://scholar.google.com/citations?user=h7VMrcIAAAAJ&hl=en).
 
 <details>
 <summary><strong>40 publications, 2016-2026</strong> — journals, conferences, and theses — click to expand</summary>
@@ -143,7 +149,7 @@ Name | Year |
 [MSc thesis defense presentation](https://github.com/gomezabajo/academy/blob/main/works/2016_TFM_pgomez_es.pdf) | 2016 |
 [BSc in Computer Science](https://github.com/gomezabajo/academy/blob/main/diplomas/2006_Titulo_Ingeniero_en_Informatica_compulsado.pdf) | 2006 |
 [BSc official transcript of grades](https://github.com/gomezabajo/academy/blob/main/diplomas/2006_Certificado_Notas_Ingeniero_en_Informatica_digital_PUB.pdf) | 2006 |
-[Europass diploma suplement](https://www.gomezabajo.es/pdf/2015_SET_Titulo_Ingeniero_en_Informatica_PUB.pdf) | 2006 |
+[Europass diploma supplement](https://www.gomezabajo.es/pdf/2015_SET_Titulo_Ingeniero_en_Informatica_PUB.pdf) | 2006 |
 [Certificate of correspondence](https://github.com/gomezabajo/academy/blob/main/diplomas/2016_Certificado_de_correspondencia_PUB.pdf) | 2006 |
 [Road to Santiago](https://github.com/gomezabajo/academy/blob/main/diplomas/2003_Camino_de_Santiago.pdf) | 2003 |
 [University access certification](https://github.com/gomezabajo/academy/blob/main/diplomas/2000_Certificado_PAU_PUB.pdf) | 2000 |
@@ -670,15 +676,22 @@ Name | Level | Institution | Year |
 
 ---
 
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=gomezabajo&show_icons=true&theme=highcontrast" alt="gomezabajo's GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=gomezabajo&theme=highcontrast" alt="gomezabajo's most used languages" />
+</p>
+
+<div align="center">
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stars][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/79daad9d9ac54f768849b803a8114686)](https://app.codacy.com/gh/gomezabajo/gomezabajo/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
-[![EPL licensed](https://img.shields.io/badge/license-EPL2.0-orange.svg)](https://www.eclipse.org/legal/epl-2.0/)
-[![GitHub Repo stars](https://img.shields.io/github/stars/gomezabajo/gomezabajo?label=Repo%20Stars)](https://github.com/gomezabajo/gomezabajo/stargazers)
 
-<p style="margin-top: 20px" align="center">
+</div>
+
+<p align="center">
   <a href="https://github.com/gomezabajo/"><img src="https://komarev.com/ghpvc/?username=gomezabajo"/></a>
   <a href="https://github.com/gomezabajo?tab=followers"><img src="https://img.shields.io/github/followers/gomezabajo?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
 </p>
@@ -711,4 +724,4 @@ Name | Level | Institution | Year |
 [scholar-url]: https://scholar.google.com/citations?user=h7VMrcIAAAAJ&hl=en
 
 [dblp-shield]: https://img.shields.io/badge/DBLP-Profile-004A87
-[dblp-url]: http://dblp.uni-trier.de/pers/hc/g/G=oacute=mez=Abajo:Pablo
+[dblp-url]: https://dblp.uni-trier.de/pers/hc/g/G=oacute=mez=Abajo:Pablo
