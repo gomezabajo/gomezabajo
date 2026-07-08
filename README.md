@@ -26,7 +26,7 @@
 His main software ecosystem is built around [**Wodel**](https://github.com/gomezabajo/Wodel), a DSL for model mutation,
 and its extensions: [**Wodel-Edu**](https://github.com/gomezabajo/Wodel-EDU), [**Wodel-Test**](https://github.com/gomezabajo/Wodel-Test)
 , [**Wodel4diac**](https://github.com/gomezabajo/Wodel4diac), and related
-metamorphic-testing work such as [**Gotten**](https://g0tten.github.io). He has also developed [**Good-Eating**](https://github.com/gomezabajo/Good-Eating), an adaptive food recommendation system for people on special diets.
+metamorphic-testing work such as [**Gotten**](https://g0tten.github.io). He has also developed [**Good-Eating**](https://github.com/gomezabajo/Good-Eating), an adaptive food recommendation system for people on special diets, and supervises the development of [**DocuMenTor**](https://sara-abouelwafa.github.io/DocuMenTor/), a model-based framework for the generation of document management systems, created by [Sara Abouelwafa](https://github.com/sara-abouelwafa).
 
 ## Contents
 
@@ -50,6 +50,7 @@ If you are visiting this profile for the first time, these are the main projects
 | [Wodel4diac](https://github.com/gomezabajo/Wodel4diac) | Mutation testing for IEC 61499 / Eclipse 4diac | CPS and industrial automation researchers |
 | [Gotten](https://g0tten.github.io/) | Domain-specific metamorphic testing environments | Testing and AI-workflow researchers |
 | [Good-Eating](https://github.com/gomezabajo/Good-Eating) | Adaptive menu recommendation for people on special diets | Health-informatics researchers, dietitians |
+| [DocuMenTor](https://sara-abouelwafa.github.io/DocuMenTor/) | Model-based generation of document management systems | Information-systems researchers, DSL engineers |
 
 ## About
 
@@ -131,6 +132,7 @@ His main line of software development is **[Wodel](https://gomezabajo.github.io/
 - **[Wodel4diac](https://github.com/gomezabajo/Wodel4diac)** — a Wodel variant compatible with Eclipse 4diac / IEC 61499.
 - **[Gotten](https://g0tten.github.io/)** — a tool for generating domain-specific metamorphic testing environments.
 - **[Good-Eating](https://github.com/gomezabajo/Good-Eating)** — an adaptive food recommendation system for people on special diets.
+- **[DocuMenTor](https://sara-abouelwafa.github.io/DocuMenTor/)** — a model-based framework that combines an EMF/Xtext DSL for describing document management systems with a code generator that produces the corresponding Python/Flask web applications; developed by [Sara Abouelwafa](https://github.com/sara-abouelwafa) under his supervision, in collaboration with [Carlos Arévalo](https://orcid.org/0000-0002-1692-8933).
 
 The [project homepage](https://gomezabajo.github.io/Wodel/) has tutorials, samples, and further tool downloads. The rest of his repositories are listed on his [GitHub profile](https://github.com/gomezabajo?tab=repositories).
 
